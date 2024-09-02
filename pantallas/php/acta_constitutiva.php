@@ -7,6 +7,8 @@ $ubicacion_empresa=$_POST['ubi'];
 $cargo_ofertado=$_POST['cargo'];
 $salario_ofertado=$_POST['salario'];
 
+$salario_texto=numero_a_texto($salario_ofertado);
+
 $dia_inicio=$_POST['day_inicio'];
 $mes_inicio=$_POST['month_inicio'];
 $año_inicio=$_POST['year_inicio'];
@@ -50,29 +52,47 @@ $fecha_nacimiento_contratado = sprintf("%04d-%02d-%02d", $año, $mes, $dia);
 //Convertir la edad de un número a texto
 function numero_a_texto($numero) {
     $unidades = [
-        0 => 'cero', 1 => 'uno', 2 => 'dos', 3 => 'tres', 4 => 'cuatro', 
-        5 => 'cinco', 6 => 'seis', 7 => 'siete', 8 => 'ocho', 9 => 'nueve'
+        0 => 'cero', 1 => 'uno', 2 => 'dos', 3 => 'tres', 4 => 'cuatro', 5 => 'cinco', 
+        6 => 'seis', 7 => 'siete', 8 => 'ocho', 9 => 'nueve'
     ];
-    
+
     $decenas = [
         10 => 'diez', 11 => 'once', 12 => 'doce', 13 => 'trece', 14 => 'catorce', 
         15 => 'quince', 16 => 'dieciséis', 20 => 'veinte', 30 => 'treinta', 
         40 => 'cuarenta', 50 => 'cincuenta', 60 => 'sesenta', 70 => 'setenta', 
         80 => 'ochenta', 90 => 'noventa'
     ];
-    
+
+    $centenas = [
+        100 => 'cien', 200 => 'doscientos', 300 => 'trescientos', 400 => 'cuatrocientos',
+        500 => 'quinientos', 600 => 'seiscientos', 700 => 'setecientos', 800 => 'ochocientos',
+        900 => 'novecientos'
+    ];
+
     if ($numero < 10) {
         return $unidades[$numero];
     } elseif ($numero < 20) {
         return $decenas[$numero];
-    } else {
+    } elseif ($numero < 100) {
         $decena = intval($numero / 10) * 10;
         $unidad = $numero % 10;
-        if ($unidad == 0) {
-            return $decenas[$decena];
-        } else {
-            return $decenas[$decena] . ' y ' . $unidades[$unidad];
-        }
+        return $unidad == 0 ? $decenas[$decena] : $decenas[$decena] . ' y ' . $unidades[$unidad];
+    } elseif ($numero < 1000) {
+        $centena = intval($numero / 100) * 100;
+        $resto = $numero % 100;
+        return $resto == 0 ? $centenas[$centena] : $centenas[$centena] . ' ' . numero_a_texto($resto);
+    } elseif ($numero < 1000000) {
+        $miles = intval($numero / 1000);
+        $resto = $numero % 1000;
+        $miles_texto = $miles == 1 ? "mil" : numero_a_texto($miles) . " mil";
+        return $resto == 0 ? $miles_texto : $miles_texto . ' ' . numero_a_texto($resto);
+    } elseif ($numero < 1000000000) {
+        $millones = intval($numero / 1000000);
+        $resto = $numero % 1000000;
+        $millones_texto = $millones == 1 ? "un millón" : numero_a_texto($millones) . " millones";
+        return $resto == 0 ? $millones_texto : $millones_texto . ' ' . numero_a_texto($resto);
+    } else {
+        return "Cantidad fuera de rango";
     }
 }
 
@@ -127,18 +147,12 @@ function fecha_a_texto_extendido($fecha) {
 // Transformando la fecha de inicio de contrato a texto extendido
 $fecha_inicio_trabajo = fecha_a_texto_extendido($fecha_inicio_contrato);
 
-
-
 //Estructura asignada a la hoja del PDF
 class PDF extends FPDF
-{
-  
+{ 
     function Header()
-    {
-       
+    {  
     }
-
-
     function Footer()
     {
       
@@ -162,11 +176,13 @@ $text = "Entre la firma personal, $nombre_empresa, debidamente inscrita por ante
 $text .= "PRIMERA: \"EL CONTRATADO prestará sus servicios a LA ENTIDAD DE TRABAJO en un Contrato a TIEMPO DETERMINADO, con el objeto de cubrir las actividades extras que se presentan por incremento en la producción de la firma personal, por los pedidos de inicio de año, posterior al reintegro de las vacaciones colectivas, además de la puesta en marcha de todo el proceso productivo, lo que se extiende por varios meses, después de inicio de operaciones por lo que se contratan los servicios temporales de EL CONTRATADO, conforme lo preceptúa el dispositivo de los artículos 62 y 64 de la Ley Orgánica del Trabajo, Las Trabajadoras y Trabajadores (LOTTT), literal a, por lo que inicia el $fecha_inicio_texto, teniendo un tiempo de duración hasta el $fecha_fin_texto, siendo este contrato renovable por mutuo acuerdo entre las partes, en caso de que medien razones especiales que justifiquen su prórroga., LA ENTIDAD DE TRABAJO realizará las correspondientes evaluaciones de desempeño y otras que considere necesarias al CONTRATADO a fin de determinar la continuidad de la relación laboral, siendo que en el caso de que la misma proceda permanecerán vigentes las condiciones aquí convenidas.\n\n";
 
 //Tercer Párrafo:
-$text .= "SEGUNDA: EL CONTRATADO se compromete a prestar sus servicios a $nombre_empres, como $cargo_ofertado en la firma personal, o en cualquier otro lugar que se le indique eventualmente cuando circunstancias así lo requieran. El servicio será prestado en cualquiera de los dos horarios o turnos convenidos en la empresa ya sea el diurno o mixto, según las necesidades en el área de $area, de Lunes a Viernes, con los días sábados y domingos de descanso, así como los feriados de ley. Dichos horarios, podrán ser modificados según las necesidades de la firma personal lo cuál se comunicará previamente al trabajador, pero siempre dentro de los limites de jormada establecidos en la Ley Orgánica del Trabajo para los Trabajadores y Trabajadoras, quien en éste acto manifiesta estar conforme.\n\n";
+$text .= "SEGUNDA: EL CONTRATADO se compromete a prestar sus servicios a $nombre_empresa, como $cargo_ofertado en la firma personal, o en cualquier otro lugar que se le indique eventualmente cuando circunstancias así lo requieran. El servicio será prestado en cualquiera de los dos horarios o turnos convenidos en la empresa ya sea el diurno o mixto, según las necesidades en el área de $area_en_empresa, de Lunes a Viernes, con los días sábados y domingos de descanso, así como los feriados de ley. Dichos horarios, podrán ser modificados según las necesidades de la firma personal lo cuál se comunicará previamente al trabajador, pero siempre dentro de los limites de jormada establecidos en la Ley Orgánica del Trabajo para los Trabajadores y Trabajadoras, quien en éste acto manifiesta estar conforme.\n\n";
 
-// $text .= "TERCERA: EL CONTRATADO tendrá en su cargo como Objetivo principal: $funcion, realizar las distintas actividades del proceso. En éste orden de ideas, el trabajador tendrá que cumplir las funciones inherentes a su cargo y a la fase del proceso laboral en el que se desempeñe. Igualmente se obliga a acatar las instrucciones que le imparta su jefe inmediato de la ENTIDAD DE TRABAJO, y a realizar cualquier otra actividad o función inherente a su cargo y relacionada con su desempeño dentro de la empresa.\n\n";
+//Cuarta párrafo:
+$text .= "TERCERA: EL CONTRATADO tendrá en su cargo como Objetivo principal: $funcion_en_empresa, realizar las distintas actividades del proceso. En éste orden de ideas, el trabajador tendrá que cumplir las funciones inherentes a su cargo y a la fase del proceso laboral en el que se desempeñe. Igualmente se obliga a acatar las instrucciones que le imparta su jefe inmediato de la ENTIDAD DE TRABAJO, y a realizar cualquier otra actividad o función inherente a su cargo y relacionada con su desempeño dentro de la empresa.\n\n";
 
-// $text .= "CUARTA: Como remuneración por sus servicios LA ENTIDAD DE TRABAJO, le pagará a EL CONTRATADO, mensualmente la cantidad de ".monto_aaa_texto($salario) ." (Bs. $salario) el cual será cancelado en pagos semanales, mediante depósito en Cuenta Bancaria que se aperture a tal efecto, o en su defecto en el domicilio del patrono, mediante otro instrumento o forma de pago. Adicionalmente EL CONTRATADO recibirá todos los beneficios de ley establecidos en la Ley Orgánica del Trabajo para los Trabajadores y Trabajadoras y la demás normativa especial vigente.\n\n";
+//Quinto párrafo
+$text .= "CUARTA: Como remuneración por sus servicios LA ENTIDAD DE TRABAJO, le pagará a EL CONTRATADO, mensualmente la cantidad de $salario_texto bolivares (Bs. $salario_ofertado) el cual será cancelado en pagos semanales, mediante depósito en Cuenta Bancaria que se aperture a tal efecto, o en su defecto en el domicilio del patrono, mediante otro instrumento o forma de pago. Adicionalmente EL CONTRATADO recibirá todos los beneficios de ley establecidos en la Ley Orgánica del Trabajo para los Trabajadores y Trabajadoras y la demás normativa especial vigente.\n\n";
 
 //Sexto parrafo
 $text .= "QUINTA: EL CONTRATADO se compromete a cumplir con el Manual de Normas y Procedimientos que existe en LA ENTIDAD DE TRABAJO, así como todas las políticas reglamento interno, órdenes y disposiciones dictadas por LA ENTIDAD DE TRABAJO, así como con las normas contenidas en la Ley Orgánica del Trabajo para los Trabajadores y Trabajadoras, Reglamento de la Ley Orgánica del Trabajo, en la Ley Orgánica de Prevención, Condiciones y Medio Ambiente de Trabajo, su Reglamento y demás disposiciones legales y reglamentarias vigentes en la materia. A éste respecto, deberá mantener una conducta acorde con los procedimientos que a tal efecto dicte LA ENTIDAD DE TRABAJO y cumplirá con la normativa pertinente en materia de Salud y Seguridad Laboral, obligándose a suscribir toda la documentación pertinente y a portar los equipos de protección personal según sea el caso. Igualmente EL CONTRATADO declara expresamente que LA ENTIDAD DE TRABAJO lo ha instruido sobre los riesgos posibles que se puedan presentar en el desarrollo de su trabajo.\n\n";
@@ -189,9 +205,6 @@ $text .= "DECIMA: En lo relativo a la interpretación de este Contrato, sus sign
 $text .= "Así lo decimos y firmamos por vía privada pero con carácter irrevocable en la ciudad de San Cristóbal, a los $fecha_inicio_trabajo.-\n\n\n";
 
 $text .= "                  LA ENTIDAD DE TRABAJO                            EL CONTRATADO";
-
-
-
 
 $pdf->SetFont('Arial', '', 12);
 $pdf->MultiCell(0, 8, utf8_decode($text));
