@@ -8,34 +8,160 @@
 <body>
 <section class="section section-md bg-default text-center">
         <div class="container">
-          <h2>Our Professional Team</h2>
+          <h2>Leyes a Conocer</h2>
           <div class="divider-lg"></div>
-          <p class="block-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Vestibulum bibendum elit cursus dapibus maximus. Maecenas sapien urna, cursus ut turpis non, gravida vehicula nisl. </p>
+          <p class="block-lg; justificado">Las leyes son cruciales para el funcionamiento ordenado de la sociedad y el respeto a los derechos en Venezuela. Regulando desde el ámbito laboral y la protección de la propiedad intelectual, hasta el uso del espacio radiofónico y la ciberseguridad. Además, promueven la convivencia pacífica y combaten la discriminación. Conocer y entender estas leyes es esencial para garantizar un entorno justo, seguro y equitativo para todos, facilitando el desarrollo y la protección de los derechos y libertades fundamentales en el país.</p>
+          
           <div class="row row-40">
             <div class="col-12">
-              <!-- Owl Carousel-->
+             
               <div class="owl-carousel carousel-creative" data-items="1" data-lg-items="3" data-dots="true" data-nav="false" data-stage-padding="15" data-loop="false" data-margin="30" data-mouse-drag="false">
-                <div class="team-minimal team-minimal-with-shadow">
-                  <figure><img src="images/team-4-370x370.jpg" alt="" width="370" height="370"></figure>
-                  <div class="team-minimal-caption">
-                    <h4 class="team-title"><a href="#">Samantha York</a></h4>
-                    <p>Cosmetologist</p>
-                  </div>
+              
+              <!-- Inicio de tarjeta -->
+              <div class="card">
+                <div class="face front">
+                    <img src="./images/img1.jpeg" >
+                    <h3>CRBV</h3>
                 </div>
-                <div class="team-minimal team-minimal-with-shadow">
-                  <figure><img src="images/team-5-370x370.jpg" alt="" width="370" height="370"></figure>
-                  <div class="team-minimal-caption">
-                    <h4 class="team-title"><a href="#">Ann Butler</a></h4>
-                    <p>Manicurist</p>
-                  </div>
+                <div class="face back">
+                    <h3 class="tarjeta">CRBV</h3>
+                    <p class="justificado">Promulgada en 1999, establece un Estado democrático y de justicia, con participación ciudadana activa y amplios derechos humanos.</p>
+                    <div class="link">
+                        <a href="">Ver más</a>
+                    </div>
                 </div>
-                <div class="team-minimal team-minimal-with-shadow">
-                  <figure><img src="images/team-3-370x370.jpg" alt="" width="370" height="370"></figure>
-                  <div class="team-minimal-caption">
-                    <h4 class="team-title"><a href="#">Mary Lucas</a></h4>
-                    <p>Founder, Senior Esthetician</p>
-                  </div>
+            </div>
+            <!-- Fin de tarjeta -->
+
+             <!-- Inicio de tarjeta -->
+             <div class="card">
+                <div class="face front">
+                    <img src="img1.jpeg" alt="">
+                    <h3>Código Cívil</h3>
                 </div>
+                <div class="face back">
+                    <h3 class="tarjeta">Código Cívil</h3>
+                    <p class="justificado">Regula las relaciones jurídicas entre particulares, abarcando familia, propiedad, contratos y obligaciones. Promulgado en 1942, se ha adaptado a cambios sociales y económicos, y es fundamental para la convivencia y seguridad jurídica en el país.</p>
+                    <div class="link">
+                        <a href="">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Fin de tarjeta -->
+
+             <!-- Inicio de tarjeta -->
+             <div class="card">
+                <div class="face front">
+                    <img src="img1.jpeg" alt="">
+                    <h3>Código de comercio</h3>
+                </div>
+                <div class="face back">
+                    <h3 class="tarjeta">Código de comercio</h3>
+                    <p class="justificado">Regula la creación de empresas, contratos, títulos valores, obligaciones mercantiles, insolvencia, comercio marítimo y protección al consumidor.</p>
+                    <div class="link">
+                        <a href="">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Fin de tarjeta -->
+
+             <!-- Inicio de tarjeta -->
+             <div class="card">
+                <div class="face front">
+                    <img src="img1.jpeg" alt="">
+                    <h3>LOCTI</h3>
+                </div>
+                <div class="face back">
+                    <h3 class="tarjeta">LOCTI </h3>
+                    <p class="justificado">Fomenta el avance científico y tecnológico, promoviendo colaboración entre gobierno, escuelas y empresas para mejorar el país.</p>
+                    <div class="link">
+                        <a href="">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Fin de tarjeta -->
+
+             <!-- Inicio de tarjeta -->
+             <div class="card">
+                <div class="face front">
+                    <img src="img1.jpeg" alt="">
+                    <h3>LOTEL</h3>
+                </div>
+                <div class="face back">
+                    <h3 class="tarjeta">LOTEL</h3>
+                    <p class="justificado">Regula el espacio radiofónico en Venezuela, incluyendo telefonía, radio y televisión, con CONATEL supervisando concesiones y emisiones.</p>
+                    <div class="link">
+                        <a href="">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Fin de tarjeta -->
+
+             <!-- Inicio de tarjeta -->
+             <div class="card">
+                <div class="face front">
+                    <img src="img1.jpeg" alt="">
+                    <h3>LECDI</h3>
+                </div>
+                <div class="face back">
+                    <h3 class="tarjeta">LECDI </h3>
+                    <p class="justificado">Regula actividades en internet y aparatos electrónicos, protegiendo datos, privacidad y sistemas contra sabotaje y espionaje informático.</p>
+                    <div class="link">
+                        <a href="">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Fin de tarjeta -->
+
+             <!-- Inicio de tarjeta -->
+             <div class="card">
+                <div class="face front">
+                    <img src="img1.jpeg" alt="">
+                    <h3>LCO</h3>
+                </div>
+                <div class="face back">
+                    <h3 class="tarjeta">LCO </h3>
+                    <p class="justificado">Promueve la diversidad y el respeto, prohibiendo la discriminación y la violencia, y establece penas severas para delitos de odio.</p>
+                    <div class="link">
+                        <a href="">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Fin de tarjeta -->
+
+             <!-- Inicio de tarjeta -->
+             <div class="card">
+                <div class="face front">
+                    <img src="img1.jpeg" alt="">
+                    <h3>LOTTT</h3>
+                </div>
+                <div class="face back">
+                    <h3 class="tarjeta">LOTTT</h3>
+                    <p class="justificado">Protege los derechos laborales, regula relaciones entre empleadores y trabajadores, y establece normas sobre contratos, salarios y condiciones laborales.</p>
+                    <div class="link">
+                        <a href="">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Fin de tarjeta -->
+             
+             <!-- Inicio de tarjeta -->
+             <div class="card">
+                <div class="face front">
+                    <img src="img1.jpeg" alt="">
+                    <h3 >Derecho de Autor</h3>
+                </div>
+                <div class="face back">
+                    <h3 class="tarjeta">Ley de Derecho de autor</h3>
+                    <p class="justificado">Protege la propiedad intelectual de los autores, regula derechos de explotación y cesión, y previene el plagio, con la Dirección Nacional de Derechos de Autor encargada del registro.</p>
+                    <div class="link">
+                        <a href="">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Fin de tarjeta -->
+
+
               </div>
             </div>
             <div class="col-12"><a class="button button-default-outline" href="#">View all team</a></div>
