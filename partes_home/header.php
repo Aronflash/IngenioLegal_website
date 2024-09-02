@@ -19,7 +19,7 @@
                       <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                       <!-- RD Navbar Brand-->
                       <div class="rd-navbar-brand">
-                        <!--Brand--><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/logo-default-392x116.png" alt="" width="196" height="58"/><img class="brand-logo-light" src="images/logo-default-392x116.png" alt="" width="196" height="58"/></a>
+                        <!--Brand--><a class="brand" href="index.html"><img class="logo" src="assets/img/logo.png" /></a>
                       </div>
                     </div>
                     <div class="rd-navbar-main-element">
