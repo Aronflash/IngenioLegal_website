@@ -69,12 +69,12 @@
                           </li>
                           <li class="dropdown rd-nav-item"><a class="rd-nav-link">Temario</a>
                           <ul class="rd-dropdown">
-                              <li><a href="pantallas\temario\derecho\derecho.php">El derecho</a></li>
-                              <li><a href="pantallas\temario\leyingenieria\ley_ingeniería.php">Ley de ingeniería</a></li>
-                              <li><a href="pantallas\temario\firmacompania\firmayca.php">Firma personal y CA</a></li>
-                              <li><a href="pantallas\temario\derechoautor\derechosautor.php">Derechos de Autor</a></li>
-                              <li><a href="pantallas\temario\delitosinformaticos\delitosinfor.php">Delitos Informáticos</a></li>
-                              <li><a href="pantallas\temario\contrato\contrato.php">Contratos</a></li>
+                              <li><a href="../derecho/derecho.php">El derecho</a></li>
+                              <li><a href="../leyingenieria/ley_ingeniería.php">Ley de ingeniería</a></li>
+                              <li><a href="../firmacompania/firmayca.php">Firma personal y CA</a></li>
+                              <li><a href="../derechoautor/derechosautor.php">Derechos de Autor</a></li>
+                              <li><a href="../delitosinformaticos/delitosinfor.php">Delitos Informáticos</a></li>
+                              <li><a href="../contrato/contrato.php">Contratos</a></li>
                           </ul>
                           </li>
                         </ul>
