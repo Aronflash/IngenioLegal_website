@@ -11,32 +11,24 @@
           <div class="row row-50 align-items-lg-center justify-content-xl-between">
             <div class="col-lg-6">
               <div class="block-xs">
-                <h2>Who We Are</h2>
+                <h2>¿A Quién Aplica esta Ley?</h2>
                 <div class="divider-lg"></div>
-                <p class="big text-gray-800">Cras ut vestibulum tortor. In in nisi sit amet metus varius pulvinar in vitae ipsum nec mi sollicitudin Fusce turpis massa,</p>
-                <p>In ante sapien, dapibus luctus aliquet a, accumsan sit amet dolor. Mauris id facilisis dolor. Donec malesuada, est eu dignissim eleifend, est nulla dignissim nisl. Fusce turpis massa, mattis sit.</p>
-              </div>
+                </div>
               <div class="row row-30">
                 <div class="col-md-6">
-                  <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
-                    <h5>Opening Hours</h5>
+                  <div class="box-contact-info-with-icon">
                     <ul class="list-xs">
-                      <li> <span class="text-gray-800">Monday-Friday: </span> 8:00am–8:00pm
+                      <li><span class="text-gray-800">Graduados en el extranjero: </span>Profesionales graduados en instituciones reconocidas fuera del país, siempre que cumplan con los requisitos establecidos por las universidades nacionales y el CIV.
                       </li>
-                      <li><span class="text-gray-800">Saturday:</span> 8:00am–6:00pm
-                      </li>
-                      <li><span class="text-gray-800">Sunday: </span> Closed
+                      <li><span class="text-gray-800">Técnicos y auxiliares:  </span> Los egresados de escuelas técnicas que trabajen bajo la supervisión de profesionales colegiados.
                       </li>
                     </ul>
                   </div>
                 </div>
                 <div class="col-md-6">
-                  <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
-                    <h5>Our Location</h5>
+                  <div class="box-contact-info-with-icon">
                     <ul class="list-xs">
-                      <li><span class="text-gray-800">Address: </span> Washington, USA 6036 Richmond hwy.,  VA, 2230
-                      </li>
-                      <li><span class="text-gray-800">Offices: </span> 284-290
+                    <li> <span class="text-gray-800">Ingenieros, arquitectos y profesionales afines: </span> Aquellos que hayan obtenido o revalidado sus títulos en Venezuela o en el extranjero, y estén debidamente inscritos en el Colegio de Ingenieros de Venezuela (CIV).
                       </li>
                     </ul>
                   </div>

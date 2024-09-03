@@ -13,9 +13,9 @@
               <div class="container">
                 <div class="row">
                   <div class="col-sm-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Solari</span> Beauty Salon <br><span class="divider"></span>Beauty as a gift
+                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Principal Institución </span>Involucrada <br><span class="divider"></span>con la ley
                     </h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250">Solari Beauty Salon offers the latest and highest quality services for you and all your family members. We specialize in all beauty treatments and our team is fully professional and innovative, from makeup services to hairstyling.</p><a class="button button-default-outline" href="#" data-caption-animate="fadeInUp" data-caption-delay="450">Book Now</a>
+                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250">El Colegio de Ingenieros de Venezuela (CIV) es el ente rector, encargado de velar por el cumplimiento de la ley, supervisar el ejercicio profesional, y actuar como asesor del Estado en asuntos relacionados con la ingeniería y arquitectura.</p>
                   </div>
                 </div>
               </div>
@@ -26,28 +26,16 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Experience </span> the Best<br><span class="divider"></span>Beauty Services
+                  <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">El CVI<span class="text-primary"></span>  </span>
                     </h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250">We offer a full range of hairdressing services for men and women, eyebrow and eyelash care, the services of make-up artists and stylists. Entrust your beauty to professionals who really care about your style and look!</p><a class="button button-default-outline" href="#" data-caption-animate="fadeInUp" data-caption-delay="450">Book Now</a>
+                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250"> Organiza centros de ingenieros en las entidades federales y establece su propia normativa interna.
+</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="swiper-slide" data-slide-bg="images/slide-3-1920x720.jpg">
-            <div class="swiper-slide-caption section-md">
-              <div class="container">
-                <div class="row">
-                  <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Professional <span class="text-primary">Beauty</span> <br><span class="divider"></span>Care for Everyone
-                    </h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250">Our beauty salon treatments will help you relax after a long and stressful day. At Solari, you can pamper yourself and enjoy the benefits of professional beauty care available at affordable price. Enjoy your life with our high-quality beauty services.</p><a class="button button-default-outline" href="#" data-caption-animate="fadeInUp" data-caption-delay="450">Book Now</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+          
         <!-- Swiper Pagination -->
         <div class="swiper-pagination"></div>
         <div class="swiper-counter"></div>

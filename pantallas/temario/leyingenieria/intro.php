@@ -12,25 +12,27 @@
           <div class="row row-50 align-items-lg-center justify-content-xl-between">
             <div class="col-lg-6">
               <div class="box-images">
-                <div class="box-images-item box-images-1" data-parallax-scroll="{&quot;y&quot;: 20, &quot;x&quot;: 30,  &quot;smoothness&quot;: 30 }"><img src="images/home-1-1-282x282.jpg" alt="" width="282" height="282"/>
+                <div class="box-images-item box-images-1" data-parallax-scroll="{&quot;y&quot;: 50, &quot;x&quot;: 30,  &quot;smoothness&quot;: 30 }"><img src="images/home-1-1-282x282.jpg" alt="" width="282" height="282"/>
                 </div>
-                <div class="box-images-item box-images-2" data-parallax-scroll="{&quot;y&quot;: 20,  &quot;smoothness&quot;: 30 }"><img src="images/home-1-2-240x369.jpg" alt="" width="240" height="369"/>
+                <div class="box-images-item box-images-2" data-parallax-scroll="{&quot;y&quot;: 50,  &quot;smoothness&quot;: 30 }"><img src="images/home-1-2-240x369.jpg" alt="" width="240" height="369"/>
                 </div>
-                <div class="box-images-item box-images-3" data-parallax-scroll="{&quot;y&quot;: 20, &quot;x&quot;: -30, &quot;smoothness&quot;: 30 }"><img src="images/home-1-3-259x369.jpg" alt="" width="259" height="369"/>
+                <div class="box-images-item box-images-3" data-parallax-scroll="{&quot;y&quot;: 50, &quot;x&quot;: -30, &quot;smoothness&quot;: 30 }"><img src="images/home-1-3-259x369.jpg" alt="" width="259" height="369"/>
                 </div>
-                <div class="box-images-item box-images-4" data-parallax-scroll="{&quot;y&quot;: -20,  &quot;smoothness&quot;: 30 }"><img src="images/home-1-4-266x266.jpg" alt="" width="266" height="266"/>
+                <div class="box-images-item box-images-4" data-parallax-scroll="{&quot;y&quot;: -50,  &quot;smoothness&quot;: 30 }"><img src="images/home-1-4-266x266.jpg" alt="" width="266" height="266"/>
                 </div>
               </div>
             </div>
             <div class="col-lg-6 col-xl-5">
-              <h2 class="heading-decorate">Why Our Clients <br><span class="divider"></span>Choose Us
+              <h2 class="heading-decorate">Ley del Ejercicio de la Ingeniería, Arquitectura y <br>Profesiones Afines
               </h2>
-              <p class="big text-gray-800">We are the leading beauty salon in LA providing high-quality hairdressing, makeup, and skin care services to everyone.</p>
-              <p class="text-spacing-60">Our clients appreciate and value our level of customer service, the skills of our stylists and estheticians as well as our professional approach to everything we do.</p><a class="button button-default-outline" href="#">learn more</a>
+              <p class="p big text-gray-800">Tiene como propósito regular el ejercicio de la ingeniería, arquitectura y profesiones afines en Venezuela. Esto incluye la definición de 
+                quiénes pueden ejercer estas profesiones, las condiciones para hacerlo, y el establecimiento de un marco ético y profesional para los practicantes. También busca asegurar que las obras y actividades realizadas en estas disciplinas cumplan con los estándares de seguridad y eficacia.</p>
+             
             </div>
           </div>
         </div>
       </section>
 
 </body>
+</html>
 </html>
