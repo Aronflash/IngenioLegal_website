@@ -77,7 +77,7 @@
                     <p class="p big text-gray-800">Con nuestro tutorial podrás apender cómo generar un pdf en este caso con la estructura de un contrato. Así mismo tendrás la oportunidad de verificar por medio de nuestro formulario el resultado final del mismo. ¡No desaproveches la oportunidad de aprender algo nuevo con solo un click!</p>
                   
                     <a class="button button-default-outline" href="../formulario.php" target="_blank">Formulario</a>
-                    <a class="button button-default-outline" href="https://www.youtube.com/@MarcoLegal-e9e" target="_blank">VideoTutorial</a>
+                    <a class="button button-default-outline" href="https://youtu.be/uQdQR-q5DfQ?si=yxwGoApWP3HCk4K5" target="_blank">VideoTutorial</a>
                 </div>
             </div>
         </div>
