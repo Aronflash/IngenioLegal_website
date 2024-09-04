@@ -11,36 +11,12 @@
           <div class="row row-50 align-items-lg-center justify-content-xl-between">
             <div class="col-lg-6">
               <div class="block-xs">
-                <h2>Who We Are</h2>
+                <h2>Capital mínimo para sus Creaciones</h2>
                 <div class="divider-lg"></div>
-                <p class="big text-gray-800">Cras ut vestibulum tortor. In in nisi sit amet metus varius pulvinar in vitae ipsum nec mi sollicitudin Fusce turpis massa,</p>
-                <p>In ante sapien, dapibus luctus aliquet a, accumsan sit amet dolor. Mauris id facilisis dolor. Donec malesuada, est eu dignissim eleifend, est nulla dignissim nisl. Fusce turpis massa, mattis sit.</p>
+                <p class="p big text-gray-800">El capital mínimo para abrir una Firma Personal puede variar según la legislación específica del Registro Mercantil, pero fluctúa al rededor de los 2500 USD (REF).</p>
+                <p class="p big text-gray-800">Para constituir una Compañía Anónima el monto estimado más actual para el capital mínimo suele comenzar en 3500 USD (REF) con restricciones para evitar la concentración excesiva del capital en manos de pocos accionistas.</p>
               </div>
               <div class="row row-30">
-                <div class="col-md-6">
-                  <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
-                    <h5>Opening Hours</h5>
-                    <ul class="list-xs">
-                      <li> <span class="text-gray-800">Monday-Friday: </span> 8:00am–8:00pm
-                      </li>
-                      <li><span class="text-gray-800">Saturday:</span> 8:00am–6:00pm
-                      </li>
-                      <li><span class="text-gray-800">Sunday: </span> Closed
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
-                    <h5>Our Location</h5>
-                    <ul class="list-xs">
-                      <li><span class="text-gray-800">Address: </span> Washington, USA 6036 Richmond hwy.,  VA, 2230
-                      </li>
-                      <li><span class="text-gray-800">Offices: </span> 284-290
-                      </li>
-                    </ul>
-                  </div>
-                </div>
               </div>
             </div>
             <div class="col-lg-6">

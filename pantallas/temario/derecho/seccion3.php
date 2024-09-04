@@ -18,7 +18,7 @@
                 </div>
                 <div class="col-md-6 col-lg-12">
                   <div class="quote-with-image">
-                    <figure class="quote-img"><img src="images/home-1-7-534x406.jpg" alt="" width="534" height="406"/>
+                    <figure class="quote-img"><img src="../img/ClasesDerecho.jpg" alt="" width="534" height="406"/>
                     </figure>
                     <div class="quote-caption">
                       
@@ -32,7 +32,7 @@
             <div class="col-lg-6">
               <div class="row row-50">
                 <div class="col-md-6 col-lg-12">
-                  <figure class="block-image"><img src="images/home-1-8-541x369.jpg" alt="" width="541" height="369"/>
+                  <figure class="block-image"><img src="../img/ClasesDerecho2.jpg" alt="" width="541" height="369"/>
                   </figure>
                   <p class="p big text-gray-800">Derechos Subjetivos: Estos son las facultades o libertades que las personas tienen para ejercer un derecho propio. Es decir, los derechos subjetivos se basan en lo establecido por los derechos objetivos, permitiendo a las personas realizar o abstenerse de realizar ciertas acciones. Por ejemplo, la libertad de expresión o la libertad de culto son derechos subjetivos que permiten a un individuo ejercer su voluntad dentro del marco legal establecido. Además, los derechos subjetivos también incluyen la capacidad de exigir a otros el cumplimiento de sus obligaciones.</p>
                 </div>

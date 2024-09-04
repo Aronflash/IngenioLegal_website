@@ -11,34 +11,36 @@
           <div class="row row-50 align-items-lg-center justify-content-xl-between">
             <div class="col-lg-6">
               <div class="block-xs">
-                <h2>Who We Are</h2>
+                <h2>Principales Delitos Tipificados</h2>
                 <div class="divider-lg"></div>
-                <p class="big text-gray-800">Cras ut vestibulum tortor. In in nisi sit amet metus varius pulvinar in vitae ipsum nec mi sollicitudin Fusce turpis massa,</p>
-                <p>In ante sapien, dapibus luctus aliquet a, accumsan sit amet dolor. Mauris id facilisis dolor. Donec malesuada, est eu dignissim eleifend, est nulla dignissim nisl. Fusce turpis massa, mattis sit.</p>
+                <p class="p big text-gray-800">La ley define y tipifica una amplia variedad de delitos informáticos, tales como el acceso indebido a sistemas, la manipulación de datos, la difusión de información confidencial, el sabotaje informático, y el uso indebido de dispositivos electrónicos</p>
+                <p class="p">Impone sanciones penales severas para quienes cometen delitos informáticos, con penas que varían según la gravedad del delito. Esto incluye multas y penas de prisión que pueden ser agravadas en caso de que los delitos afecten a instituciones del Estado o comprometan la seguridad nacional.</p>
               </div>
               <div class="row row-30">
                 <div class="col-md-6">
-                  <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
-                    <h5>Opening Hours</h5>
+                  <div class="box-contact-info-with-icon"><span class="icon mdi mdi-check icon-primary"></span>
+                    <h5>Algunos de ellos son:</h5>
                     <ul class="list-xs">
-                      <li> <span class="text-gray-800">Monday-Friday: </span> 8:00am–8:00pm
+                      <li><span class="text-gray-800">Acceso indebido a sistemas.</span>
                       </li>
-                      <li><span class="text-gray-800">Saturday:</span> 8:00am–6:00pm
+                      <li><span class="text-gray-800">Sabotaje o daño a sistemas.</span> 
                       </li>
-                      <li><span class="text-gray-800">Sunday: </span> Closed
+                      <li><span class="text-gray-800">Suplantación de identidad y fraude informático.</span> 
+                      </li>
+                      <li><span class="text-gray-800">Intercepción de comunicaciones.</span> 
+                      </li>
+                      <li><span class="text-gray-800">Revelación de datos personales.</span> 
                       </li>
                     </ul>
                   </div>
                 </div>
                 <div class="col-md-6">
-                  <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
-                    <h5>Our Location</h5>
-                    <ul class="list-xs">
-                      <li><span class="text-gray-800">Address: </span> Washington, USA 6036 Richmond hwy.,  VA, 2230
-                      </li>
-                      <li><span class="text-gray-800">Offices: </span> 284-290
-                      </li>
-                    </ul>
+                  <div class="box-contact-info-with-icon"><span class="icon mdi mdi-check icon-primary"></span>
+                    <h5>Aspecto a tener en cuenta:</h5>
+                      <ul class="list-xs">
+                        <li> <p class="p text-gray-800">Se reconoce la necesidad de actualizar periódicamente la ley para mantenerse al día con los avances tecnológicos y las nuevas formas de criminalidad informática que puedan surgir.</p> 
+                        </li>
+                      </ul>
                   </div>
                 </div>
               </div>

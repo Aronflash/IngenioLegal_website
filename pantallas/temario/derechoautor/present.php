@@ -11,35 +11,25 @@
           <div class="row row-50 align-items-lg-center justify-content-xl-between">
             <div class="col-lg-6">
               <div class="block-xs">
-                <h2>Who We Are</h2>
+                <h2>importancia de la Ley de Derechos de Autor</h2>
                 <div class="divider-lg"></div>
-                <p class="big text-gray-800">Cras ut vestibulum tortor. In in nisi sit amet metus varius pulvinar in vitae ipsum nec mi sollicitudin Fusce turpis massa,</p>
-                <p>In ante sapien, dapibus luctus aliquet a, accumsan sit amet dolor. Mauris id facilisis dolor. Donec malesuada, est eu dignissim eleifend, est nulla dignissim nisl. Fusce turpis massa, mattis sit.</p>
+                <p class="p big text-gray-800">Radica en su capacidad para fomentar la creatividad y la innovación, al asegurar que los creadores puedan beneficiarse de su trabajo. Además, protege a los autores contra el uso no autorizado de sus obras, previniendo la piratería y otros abusos que puedan desincentivar la producción de contenido cultural y tecnológico.</p>
+                <p class="p">También tiene un papel fundamental en la regulación del mercado de contenidos, asegurando un equilibrio entre los intereses de los autores y el acceso del público a las obras.</p>
               </div>
               <div class="row row-30">
                 <div class="col-md-6">
-                  <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
-                    <h5>Opening Hours</h5>
+                  <div class="box-contact-info-with-icon"><span class="icon mdi mdi-check icon-primary"></span>
+                    <h5>Algunos aspectos relevantes:</h5>
                     <ul class="list-xs">
-                      <li> <span class="text-gray-800">Monday-Friday: </span> 8:00am–8:00pm
+                      <li> <span class="text-gray-800">Contribuye al crecimiento de la industria cultural y creativa </span> 
                       </li>
-                      <li><span class="text-gray-800">Saturday:</span> 8:00am–6:00pm
-                      </li>
-                      <li><span class="text-gray-800">Sunday: </span> Closed
+                      <li><span class="text-gray-800">Fomenta a la Investigación</span> 
+                      <li><span class="text-gray-800">Acceso Equitativo a la Cultura </span>
                       </li>
                     </ul>
                   </div>
                 </div>
                 <div class="col-md-6">
-                  <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
-                    <h5>Our Location</h5>
-                    <ul class="list-xs">
-                      <li><span class="text-gray-800">Address: </span> Washington, USA 6036 Richmond hwy.,  VA, 2230
-                      </li>
-                      <li><span class="text-gray-800">Offices: </span> 284-290
-                      </li>
-                    </ul>
-                  </div>
                 </div>
               </div>
             </div>

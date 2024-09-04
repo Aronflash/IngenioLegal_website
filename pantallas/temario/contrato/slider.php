@@ -8,40 +8,40 @@
 <body>
 <section class="section swiper-container swiper-slider swiper-slider-1" data-loop="false" data-autoplay="5500" data-simulate-touch="false" data-slide-effect="fade">
         <div class="swiper-wrapper">
-          <div class="swiper-slide" data-slide-bg="images/slide-1-1920x720.jpg">
+          <div class="swiper-slide" data-slide-bg="../img/Riqueza.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
                   <div class="col-sm-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Definiciones </span> Relevantes<br><span class="divider"></span>¿Qué es la Riqueza?
+                    <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary text-color-white">Definiciones </span> Relevantes<br><span class="b divider"></span>¿Qué es la Riqueza?
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Es la acumulación de bienes materiales, recursos financieros y activos que permiten satisfacer necesidades y deseos, proporcionando seguridad económica y estabilidad a largo plazo. Incluye aspectos intangibles como el conocimiento, la salud, y el bienestar emocional, que contribuyen al desarrollo integral y a la calidad de vida.</p>
+                    <p class="b p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Es la acumulación de bienes materiales, recursos financieros y activos que permiten satisfacer necesidades y deseos, proporcionando seguridad económica y estabilidad a largo plazo. Incluye aspectos intangibles como el conocimiento, la salud, y el bienestar emocional, que contribuyen al desarrollo integral y a la calidad de vida.</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="swiper-slide" data-slide-bg="images/slide-2-1920x720.jpg">
+          <div class="swiper-slide" data-slide-bg="../img/Salario.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Definiciones </span> Relevantes<br><span class="divider"></span>¿Qué es un Salario?
+                    <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Definiciones </span> Relevantes<br><span class="divider"></span>¿Qué es un Salario?
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Es la remuneración económica que recibe un trabajador a cambio de la prestación de sus servicios. Según la Ley Orgánica del Trabajo, incluye tanto el salario base, que es regular y permanente, como los complementos salariales tales como comisiones, primas, bonos, y recargos por horas extras o turnos nocturnos. El salario puede ser estipulado por unidad de tiempo, por obra o por tarea, y debe ser justo, adecuado a la calidad del servicio, y no inferior al salario mínimo establecido por el Ejecutivo Nacional</p>
+                    <p class="b p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Es la remuneración económica que recibe un trabajador a cambio de la prestación de sus servicios. Según la Ley Orgánica del Trabajo, incluye tanto el salario base, que es regular y permanente, como los complementos salariales tales como comisiones, primas, bonos, y recargos por horas extras o turnos nocturnos. El salario puede ser estipulado por unidad de tiempo, por obra o por tarea, y debe ser justo, adecuado a la calidad del servicio, y no inferior al salario mínimo establecido por el Ejecutivo Nacional</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="swiper-slide" data-slide-bg="images/slide-3-1920x720.jpg">
+          <div class="swiper-slide" data-slide-bg="../img/DerechoSalario.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Definiciones <span class="text-primary">Relevantes</span> <br><span class="divider"></span> Derecho al Salario
+                    <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Definiciones <span class="text-primary">Relevantes</span> <br><span class="divider"></span> Derecho al Salario
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Es un principio establecido en la ley que garantiza que el salario recibido por el trabajador sea suficiente para asegurarle una vida digna, cubriendo sus necesidades materiales, sociales e intelectuales, así como las de su familia. Este derecho es protegido especialmente por el Estado, y su cumplimiento es de exigencia inmediata</p>
+                    <p class="b p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Es un principio establecido en la ley que garantiza que el salario recibido por el trabajador sea suficiente para asegurarle una vida digna, cubriendo sus necesidades materiales, sociales e intelectuales, así como las de su familia. Este derecho es protegido especialmente por el Estado, y su cumplimiento es de exigencia inmediata</p>
                   </div>
                 </div>
               </div>

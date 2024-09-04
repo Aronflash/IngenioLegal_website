@@ -23,10 +23,11 @@
               </div>
             </div>
             <div class="col-lg-6 col-xl-5">
-              <h2 class="heading-decorate">Why Our Clients <br><span class="divider"></span>Choose Us
+              <h2 class="heading-decorate">Firma Personal <br><span class="divider"></span>Compañía Anónima
               </h2>
-              <p class="big text-gray-800">We are the leading beauty salon in LA providing high-quality hairdressing, makeup, and skin care services to everyone.</p>
-              <p class="text-spacing-60">Our clients appreciate and value our level of customer service, the skills of our stylists and estheticians as well as our professional approach to everything we do.</p><a class="button button-default-outline" href="#">learn more</a>
+              <p class="p big text-gray-800"></p>
+              <p class="p text-spacing-60">La Firma Personal es una modalidad empresarial que permite a una persona natural llevar a cabo actividades mercantiles de forma independiente, sin necesidad de constituir una sociedad. Esta opción es ágil y otorga al titular la máxima autonomía y flexibilidad en la administración de su negocio.</p>
+              <p class="p text-spacing-60">Por otro lado, una Compañía Anónima (C.A.) es una sociedad mercantil en la que el capital se divide en acciones, limitando la responsabilidad de los socios al monto de su inversión. Esta se rige por un marco legal específico que regula su constitución y funcionamiento.</p>
             </div>
           </div>
         </div>

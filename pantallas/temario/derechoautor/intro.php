@@ -23,10 +23,12 @@
               </div>
             </div>
             <div class="col-lg-6 col-xl-5">
-              <h2 class="heading-decorate">Why Our Clients <br><span class="divider"></span>Choose Us
+              <h2 class="heading-decorate">Ley de Derechos de Autor <br><span class="divider"></span>¿Qué Busca?
               </h2>
-              <p class="big text-gray-800">We are the leading beauty salon in LA providing high-quality hairdressing, makeup, and skin care services to everyone.</p>
-              <p class="text-spacing-60">Our clients appreciate and value our level of customer service, the skills of our stylists and estheticians as well as our professional approach to everything we do.</p><a class="button button-default-outline" href="#">learn more</a>
+              <p class="p big text-gray-800">Está diseñada para garantizar la protección de los derechos de los autores sobre sus creaciones originales, sin importar si estas son literarias, científicas o artísticas. La ley cubre todos los géneros y formas de expresión, asegurando que el reconocimiento y la protección del autor no dependen del tipo de obra ni de su propósito. 
+              </p>
+              <p class="p text-spacing-60">El objeto de está ley es establecer que los derechos de autor sean independientes del soporte físico donde se encuentre la obra, y no requieren de formalidades adicionales para su reconocimiento y protección legal
+              </p>
             </div>
           </div>
         </div>

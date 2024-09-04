@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/txt.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;} 
     </style>
@@ -24,10 +25,10 @@
         <?php
           include ('partes_home/header.php');
           include ('secciones/home1.php');
-          include ('secciones/slider.php');
+          include ('secciones/slider_index.php');
           include ('secciones/intro_index.php');
-          include ('secciones/tarjetas.php');
           include ('secciones/seccion3_index.php');
+          include ('secciones/intro_index2.php');
           include ('secciones/testimonios.php');
           include ('secciones/seccion5.php');
           include ('partes_home/footer.php');

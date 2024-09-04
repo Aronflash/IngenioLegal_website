@@ -23,10 +23,10 @@
               </div>
             </div>
             <div class="col-lg-6 col-xl-5">
-              <h2 class="heading-decorate">Why Our Clients <br><span class="divider"></span>Choose Us
+              <h2 class="heading-decorate">Ley Especial Contra<br><span class="divider"></span>Delitos Informáticos
               </h2>
-              <p class="big text-gray-800">We are the leading beauty salon in LA providing high-quality hairdressing, makeup, and skin care services to everyone.</p>
-              <p class="text-spacing-60">Our clients appreciate and value our level of customer service, the skills of our stylists and estheticians as well as our professional approach to everything we do.</p><a class="button button-default-outline" href="#">learn more</a>
+              <p class="p big text-gray-800">Su finalidad es proteger la integridad, confidencialidad y disponibilidad de los sistemas de información, regulando el acceso y uso de la tecnología, y estableciendo sanciones para prevenir y penalizar conductas ilícitas que atenten contra la seguridad informática.</p>
+              <p class="p text-spacing-60">La ley abarca tanto a individuos como a personas jurídicas que, de manera indebida, obtengan, revelen o difundan información contenida en sistemas</p>
             </div>
           </div>
         </div>

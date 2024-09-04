@@ -13,9 +13,9 @@
               <div class="container">
                 <div class="row">
                   <div class="col-sm-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Solari</span> Beauty Salon <br><span class="divider"></span>Beauty as a gift
+                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Ventajas</span> de <br><span class="divider"></span> esta Ley
                     </h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250">Solari Beauty Salon offers the latest and highest quality services for you and all your family members. We specialize in all beauty treatments and our team is fully professional and innovative, from makeup services to hairstyling.</p><a class="button button-default-outline" href="#" data-caption-animate="fadeInUp" data-caption-delay="450">Book Now</a>
+                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Protección de la información y sistemas, generando confiabilidad en técnologias digitales. Fomentar la ciberseguridad. Proteger la autoria de los sistemas. Sanciones para delitos informáticos específicos, brindando consecuencias claras para quienen incumplen la ley</p>
                   </div>
                 </div>
               </div>
@@ -26,9 +26,10 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Experience </span> the Best<br><span class="divider"></span>Beauty Services
+                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Desventajas </span> de <br><span class="divider"></span>esta Ley
                     </h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250">We offer a full range of hairdressing services for men and women, eyebrow and eyelash care, the services of make-up artists and stylists. Entrust your beauty to professionals who really care about your style and look!</p><a class="button button-default-outline" href="#" data-caption-animate="fadeInUp" data-caption-delay="450">Book Now</a>
+                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Complicaciones al determinar el autor original del delito.
+                    Dificultad en su aplicación ante posibles nuevos delitos informáticos; ameritando actualizaciones. Dependencia de organismos especializados en el área, para cumplir de mejor manera dicha ley.</p>
                   </div>
                 </div>
               </div>
@@ -39,9 +40,10 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Professional <span class="text-primary">Beauty</span> <br><span class="divider"></span>Care for Everyone
+                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Importancia <span class="text-primary">de</span> <br><span class="divider"></span>esta Ley
                     </h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250">Our beauty salon treatments will help you relax after a long and stressful day. At Solari, you can pamper yourself and enjoy the benefits of professional beauty care available at affordable price. Enjoy your life with our high-quality beauty services.</p><a class="button button-default-outline" href="#" data-caption-animate="fadeInUp" data-caption-delay="450">Book Now</a>
+                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Es crucial para mantener la seguridad digital, protegiendo tanto a individuos como a instituciones contra las amenazas del ciberespacio y promoviendo un uso responsable de la tecnología. La ley asegura la protección de derechos fundamentales como la privacidad, la propiedad intelectual, y el acceso seguro a la información.</p> 
+                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Asimismo, prevenir y combatir delitos como el acceso indebido a sistemas, la manipulación de datos, el sabotaje informático, y la usurpación de identidad</p>
                   </div>
                 </div>
               </div>

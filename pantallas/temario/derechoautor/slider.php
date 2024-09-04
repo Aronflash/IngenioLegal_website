@@ -13,9 +13,9 @@
               <div class="container">
                 <div class="row">
                   <div class="col-sm-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Solari</span> Beauty Salon <br><span class="divider"></span>Beauty as a gift
+                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Derechos</span>  <br><span class="divider"></span>Exclusivos
                     </h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250">Solari Beauty Salon offers the latest and highest quality services for you and all your family members. We specialize in all beauty treatments and our team is fully professional and innovative, from makeup services to hairstyling.</p><a class="button button-default-outline" href="#" data-caption-animate="fadeInUp" data-caption-delay="450">Book Now</a>
+                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Esta ley otorga a los autores una serie de derechos exclusivos, como el derecho a reproducir, distribuir, exhibir, y adaptar sus obras. También establece los términos bajo los cuales terceros pueden utilizar estas obras, ya sea mediante licencias, cesiones o bajo excepciones específicas contempladas en la ley, como el uso justo para fines educativos o informativos.</p>
                   </div>
                 </div>
               </div>
@@ -26,9 +26,9 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Experience </span> the Best<br><span class="divider"></span>Beauty Services
+                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Importancia </span> de<br><span class="divider"></span>esta Ley
                     </h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250">We offer a full range of hairdressing services for men and women, eyebrow and eyelash care, the services of make-up artists and stylists. Entrust your beauty to professionals who really care about your style and look!</p><a class="button button-default-outline" href="#" data-caption-animate="fadeInUp" data-caption-delay="450">Book Now</a>
+                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">La importancia de la Ley de Derechos de Autor radica en su capacidad para fomentar la creatividad y la innovación, al asegurar que los creadores puedan beneficiarse de su trabajo. Además, protege a los autores contra el uso no autorizado de sus obras, previniendo la piratería y otros abusos que puedan desincentivar la producción de contenido cultural y tecnológico.</p>
                   </div>
                 </div>
               </div>
@@ -39,9 +39,24 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Professional <span class="text-primary">Beauty</span> <br><span class="divider"></span>Care for Everyone
+                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"> <span class="text-primary">Ventajas</span> <br><span class="divider"></span>de esta Ley
                     </h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250">Our beauty salon treatments will help you relax after a long and stressful day. At Solari, you can pamper yourself and enjoy the benefits of professional beauty care available at affordable price. Enjoy your life with our high-quality beauty services.</p><a class="button button-default-outline" href="#" data-caption-animate="fadeInUp" data-caption-delay="450">Book Now</a>
+                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Ofrece una protección integral tanto de los derechos morales como patrimoniales de los autores, asegurando el reconocimiento de la autoría y la integridad de las obras, mientras permite a los autores beneficiarse económicamente de la explotación de sus creaciones.</p>
+                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Además, la ley extiende la protección de los derechos patrimoniales durante toda la vida del autor y hasta 60 años después de su fallecimiento, permitiendo que tanto los autores como sus herederos se beneficien a largo plazo. La amplia cobertura de la ley incluye una variedad de obras, desde literatura hasta software, asegurando que la mayoría de las creaciones intelectuales estén adecuadamente protegidas y manteniendo la integridad de las obras para que no sean modificadas en formas que perjudiquen la reputación del autor.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide" data-slide-bg="images/slide-3-1920x720.jpg">
+            <div class="swiper-slide-caption section-md">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-10 col-lg-8 col-xl-7">
+                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"> <span class="text-primary">Desventajas</span> <br><span class="divider"></span>de esta Ley
+                    </h1>
+                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">La protección estricta de los derechos de autor puede limitar el acceso a ciertas obras, particularmente para aquellos individuos o instituciones que no pueden costear los derechos, lo que afecta negativamente la difusión del conocimiento y la cultura. Además, la duración extendida de los derechos, que puede continuar mucho después de la muerte del autor, puede dificultar el acceso a obras que podrían ser de gran valor público si estuvieran en el dominio público.</p>
+                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">La ley podría ser utilizada de manera restrictiva para impedir usos legítimos de una obra, como la parodia, la crítica o el uso académico, si se interpreta de forma demasiado rígida. Para los autores con menos recursos, ejercer y defender sus derechos de autor puede ser costoso y complicado, lo que podría desincentivar la protección legal de sus obras.</p>
                   </div>
                 </div>
               </div>

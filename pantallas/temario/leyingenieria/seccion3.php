@@ -27,7 +27,7 @@
                 </div>
                 <div class="col-md-6 col-lg-12">
                   <div class="quote-with-image">
-                    <figure class="quote-img"><img src="images/home-1-7-534x406.jpg" alt="" width="534" height="406"/>
+                    <figure class="quote-img"><img src="../img/EjercicioIngenieria.jpg" alt="" width="534" height="406"/>
                     </figure>
                   </div>
                 </div>
@@ -36,7 +36,7 @@
             <div class="col-lg-6">
               <div class="row row-50">
                 <div class="col-md-6 col-lg-12">
-                  <figure class="block-image"><img src="images/home-1-8-541x369.jpg" alt="" width="541" height="369"/>
+                  <figure class="block-image"><img src="../img/SancionMulta.jpg" alt="" width="541" height="369"/>
                   </figure>
                   <p class="big text-gray-800">De carácter disciplinario: <br><br>
                   </p><ul class="list-xs">

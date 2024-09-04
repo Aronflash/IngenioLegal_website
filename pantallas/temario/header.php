@@ -54,18 +54,18 @@
                       <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                       <!-- RD Navbar Brand-->
                       <div class="rd-navbar-brand">
-                        <!--Brand--><a class="brand" href="index.html"><img class="Hlogo" src="assets/img/logo.png" /></a>
+                        <!--Brand--><a class="brand" href="index.html"><img class="Hlogo" src="../../../assets/img/logo.png" /></a>
                       </div>
                     </div>
                     <div class="rd-navbar-main-element">
                       <div class="rd-navbar-nav-wrap">
                         <!-- RD Navbar Nav-->
                         <ul class="rd-navbar-nav">
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Home</a>
+                          <li class="rd-nav-item"><a class="rd-nav-link" href="../../../index.php">Home</a>
                           </li>
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">About</a>
+                          <li class="rd-nav-item"><a class="rd-nav-link" href="../../../about.php">About</a>
                           </li>
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="typography.php">Typography</a>
+                          <li class="rd-nav-item"><a class="rd-nav-link" href="../../../typography.php">Typography</a>
                           </li>
                           <li class="dropdown rd-nav-item"><a class="rd-nav-link">Temario</a>
                           <ul class="rd-dropdown">

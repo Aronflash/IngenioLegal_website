@@ -12,7 +12,7 @@
             <div class="col-lg-6">
               <div class="block-xs">
                 <h2 class="heading-decorate">Conoce sobre<br class="d-inline"><span class="divider"></span>Nuestas Experiencias en M.L.</h2>
-                <p class="big text-gray-800">Los integrantes de la sección de Marco Legal de ingeniería de Sistemas los invitamos a leer sobre nuestras experiencias en el transcurso de este intensivo.</p>
+                <p class="p big text-gray-800">Los integrantes de la sección de Marco Legal de ingeniería de Sistemas los invitamos a leer sobre nuestras experiencias en el transcurso de este intensivo.</p>
                 <a class="button button-default-outline" href="pantallas/testimonio_alumnos.php">Ver más</a>
               </div>
             </div>
@@ -26,7 +26,7 @@
                   </div>
                   <div class="quote-body">
                     <div class="quote-text">
-                      <p>Excelente grupo, participativo y colaborador. Genere en cada uno de ustedes la  semilla del saber. Recuerden que todo es posible, siempre que tengamos la misma pasión,  amor y determinación para hacer las cosas. Los aprecio mucho. Quiero verlos a todos graduados. Su meta tiene que ser esa y su visión. Que Dios los bendiga.</p>
+                      <p class="p">Excelente grupo, participativo y colaborador. Genere en cada uno de ustedes la  semilla del saber. Recuerden que todo es posible, siempre que tengamos la misma pasión,  amor y determinación para hacer las cosas. Los aprecio mucho. Quiero verlos a todos graduados. Su meta tiene que ser esa y su visión. Que Dios los bendiga.</p>
                     </div>
                     <svg class="quote-body-mark" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="66px" height="49px" viewbox="0 0 66 49" enable-background="new 0 0 66 49" xml:space="preserve">
                       <g></g>

@@ -8,27 +8,27 @@
 <body>
 <section class="section swiper-container swiper-slider swiper-slider-1" data-loop="false" data-autoplay="5500" data-simulate-touch="false" data-slide-effect="fade">
         <div class="swiper-wrapper">
-          <div class="swiper-slide" data-slide-bg="images/slide-1-1920x720.jpg">
+          <div class="swiper-slide" data-slide-bg="../img/ColegioIngenieros.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
-                  <div class="col-sm-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Principal Institución </span>Involucrada <br><span class="divider"></span>con la ley
+                  <div class=" col-sm-10 col-lg-8 col-xl-7">
+                    <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="b text-primary">Principal Institución </span>Involucrada <br><span class="divider"></span>con la ley
                     </h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250">El Colegio de Ingenieros de Venezuela (CIV) es el ente rector, encargado de velar por el cumplimiento de la ley, supervisar el ejercicio profesional, y actuar como asesor del Estado en asuntos relacionados con la ingeniería y arquitectura.</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">El Colegio de Ingenieros de Venezuela (CIV) es el ente rector, encargado de velar por el cumplimiento de la ley, supervisar el ejercicio profesional, y actuar como asesor del Estado en asuntos relacionados con la ingeniería y arquitectura.</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="swiper-slide" data-slide-bg="images/slide-2-1920x720.jpg">
+          <div class="swiper-slide" data-slide-bg="../img/ColegioIngenieros.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                  <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">El CVI<span class="text-primary"></span>  </span>
+                  <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">El CVI<span class="text-primary"></span>  </span>
                     </h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250"> Organiza centros de ingenieros en las entidades federales y establece su propia normativa interna.
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250"> Organiza centros de ingenieros en las entidades federales y establece su propia normativa interna.
 </p>
                   </div>
                 </div>

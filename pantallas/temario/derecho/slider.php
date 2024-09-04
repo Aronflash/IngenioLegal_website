@@ -8,38 +8,41 @@
 <body>
 <section class="section swiper-container swiper-slider swiper-slider-1" data-loop="false" data-autoplay="5500" data-simulate-touch="false" data-slide-effect="fade">
         <div class="swiper-wrapper">
-          <div class="swiper-slide" data-slide-bg="images/slide-1-1920x720.jpg">
+           <!--aqui el fondo de la envolucion-->
+          <div class="swiper-slide" data-slide-bg="../img/evolucion1.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
                   <div class="col-sm-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Evolución</span> del derecho<br><span class="divider"></span>
+                    <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="b text-primary">Evolución</span> del derecho<br><span class="divider"></span>
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">La evolución del derecho refleja el desarrollo de las sociedades humanas, desde sus inicios rudimentarios basados en costumbres y tradiciones, hasta la creación de los primeros códigos legales escritos como el Código de Hammurabi en Babilonia. En estas primeras etapas, el derecho se encargaba de establecer normas claras y sanciones para mantener el orden social, siendo las decisiones de líderes tribales o religiosos las que guiaban la justicia.</p>
+                    <p class="b p lead" data-caption-animate="fadeInUp" data-caption-delay="250">La evolución del derecho refleja el desarrollo de las sociedades humanas, desde sus inicios rudimentarios basados en costumbres y tradiciones, hasta la creación de los primeros códigos legales escritos como el Código de Hammurabi en Babilonia. En estas primeras etapas, el derecho se encargaba de establecer normas claras y sanciones para mantener el orden social, siendo las decisiones de líderes tribales o religiosos las que guiaban la justicia.</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="swiper-slide" data-slide-bg="images/slide-2-1920x720.jpg">
+          <!--aqui el fondo de la envolucion-->
+          <div class="swiper-slide" data-slide-bg="../img/evolucion2.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Evolución</span> del derecho<br><span class="divider"></span>
+                    <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="b text-primary">Evolución</span> del derecho<br><span class="divider"></span>
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">A medida que las sociedades se volvieron más complejas, el derecho fue influenciado por el pensamiento filosófico y las necesidades cambiantes de las civilizaciones. En la antigua Roma, el derecho se sistematizó y se dividió en distintas ramas, sentando las bases del derecho civil moderno. Durante la Edad Media, la influencia de la religión, especialmente en Europa con la Iglesia Católica, desempeñó un papel central en la administración de justicia, marcando una etapa en la que el derecho y la fe se entrelazaban.</p>
+                    <p class="b p lead" data-caption-animate="fadeInUp" data-caption-delay="250">A medida que las sociedades se volvieron más complejas, el derecho fue influenciado por el pensamiento filosófico y las necesidades cambiantes de las civilizaciones. En la antigua Roma, el derecho se sistematizó y se dividió en distintas ramas, sentando las bases del derecho civil moderno. Durante la Edad Media, la influencia de la religión, especialmente en Europa con la Iglesia Católica, desempeñó un papel central en la administración de justicia, marcando una etapa en la que el derecho y la fe se entrelazaban.</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="swiper-slide" data-slide-bg="images/slide-3-1920x720.jpg">
+          <!--aqui el fondo de la envolucion-->
+          <div class="swiper-slide" data-slide-bg="../img/evolucion3.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Evolución <span class="text-primary"> del derecho</span> <br><span class="divider"></span>
+                    <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Evolución <span class="b text-primary"> del derecho</span> <br><span class="divider"></span>
                     </h1>
                     <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Con la llegada de la modernidad y la Ilustración, el derecho experimentó una secularización, basándose en principios de razón, justicia y derechos humanos. Las revoluciones en Europa y América impulsaron la creación de constituciones escritas y sistemas legales fundamentados en la soberanía popular y la igualdad ante la ley.</p>
                     <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">En el siglo XX, el derecho se expandió para incluir nuevos derechos sociales, económicos y culturales, enfrentando desafíos globales como los derechos humanos y la protección del medio ambiente. En la actualidad, el derecho sigue evolucionando, adaptándose a cuestiones contemporáneas como la tecnología, la globalización y la diversidad cultural, manteniendo su función esencial de regular las relaciones humanas y garantizar la justicia en un mundo cada vez más interconectado.</p>

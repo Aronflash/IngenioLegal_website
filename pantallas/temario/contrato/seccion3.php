@@ -18,7 +18,7 @@
                 </div>
                 <div class="col-md-6 col-lg-12">
                   <div class="quote-with-image">
-                    <figure class="quote-img"><img src="images/home-1-7-534x406.jpg" alt="" width="534" height="406"/>
+                    <figure class="quote-img"><img src="../img/EstructuraContrato.jpg" alt="" width="534" height="406"/>
                     </figure>
                     <div class="quote-caption">
                       <p class="p  big text-gray-800">Por último, el recibo de pago, según el artículo 106 de la LOTTT, debe detallar los salarios y otros beneficios recibidos, así como las deducciones correspondientes, con la obligación de entregar este documento al trabajador en cada pago realizado.</p>
@@ -31,7 +31,7 @@
             <div class="col-lg-6">
               <div class="row row-50">
                 <div class="col-md-6 col-lg-12">
-                  <figure class="block-image"><img src="images/home-1-8-541x369.jpg" alt="" width="541" height="369"/>
+                  <figure class="block-image"><img src="../img/EntidadTrabajo.jpg" alt="" width="541" height="369"/>
                   </figure>
                   <h2 class="heading-decorate"><span class="divider"></span>Estructura de un Contrato</h2>
                   <p class="p big text-gray-800">El contrato de trabajo, regulado por el artículo 59 de la LOTTT, es un acuerdo formal entre el trabajador y el empleador que debe cumplir con ciertos requisitos para garantizar la transparencia y protección de ambas partes</p>

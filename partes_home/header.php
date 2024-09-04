@@ -63,9 +63,11 @@
                         <ul class="rd-navbar-nav">
                           <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Home</a>
                           </li>
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">About</a>
+                          <li class="rd-nav-item"><a class="rd-nav-link" href="./pantallas/acta.php">Actas Constitutivas</a>
                           </li>
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="typography.php">Typography</a>
+                          <li class="rd-nav-item"><a class="rd-nav-link" href="">Generar Contrato</a>
+                          </li>
+                          
                           </li>
                           <li class="dropdown rd-nav-item"><a class="rd-nav-link">Temario</a>
                           <ul class="rd-dropdown">
