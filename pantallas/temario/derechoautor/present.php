@@ -35,7 +35,7 @@
             </div>
             <div class="col-lg-6">
               <div class="box-images box-images-variant-3">
-                <div class="box-images-item" data-parallax-scroll="{&quot;y&quot;: -20,   &quot;smoothness&quot;: 30 }"><img src="../img/importancia1.jpg" alt="" width="470" height="282"/>
+                <div class="box-images-item" data-parallax-scroll="{&quot;y&quot;: -20,   &quot;smoothness&quot;: 30 }"><img src="../img/importacia1.jpg" alt="" width="470" height="282"/>
                 </div>
                 <div class="box-images-item box-images-without-border" data-parallax-scroll="{&quot;y&quot;: 40,  &quot;smoothness&quot;: 30 }"><img src="../img/importancia2.jpg" alt="" width="470" height="282"/>
                 </div>

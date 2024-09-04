@@ -18,7 +18,7 @@
                 </div>
                 <div class="col-md-6 col-lg-12">
                   <div class="quote-with-image">
-                    <figure class="quote-img"><img src="../img/SancionMulta2.jp g" alt="" width="534" height="406"/>
+                    <figure class="quote-img"><img src="../img/SancionMulta2.jpg" alt="" width="534" height="406"/>
                     </figure>
                     <div class="quote-caption">
                      <p class="p big text-gray-800">Finalmente, el artículo 122 incrementa las penas en un 50% cuando las infracciones afectan obras no destinadas a la divulgación, o cuando se cometen con usurpación de paternidad o modificaciones que dañen el decoro o la reputación del autor o intérprete. Para que las acciones legales procedan, la parte interesada debe presentar una denuncia, y según el artículo 123, también puede solicitar al juez la publicación de la sentencia en medios de comunicación de circulación nacional.</p> 

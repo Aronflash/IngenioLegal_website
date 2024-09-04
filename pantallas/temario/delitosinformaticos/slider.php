@@ -8,42 +8,42 @@
 <body>
 <section class="section swiper-container swiper-slider swiper-slider-1" data-loop="false" data-autoplay="5500" data-simulate-touch="false" data-slide-effect="fade">
         <div class="swiper-wrapper">
-          <div class="swiper-slide" data-slide-bg="images/slide-1-1920x720.jpg">
+          <div class="swiper-slide" data-slide-bg="../img/delitoSlider1.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
                   <div class="col-sm-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Ventajas</span> de <br><span class="divider"></span> esta Ley
+                    <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary text-color-white">Ventajas</span> de <br><span class="divider"></span> esta Ley
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Protección de la información y sistemas, generando confiabilidad en técnologias digitales. Fomentar la ciberseguridad. Proteger la autoria de los sistemas. Sanciones para delitos informáticos específicos, brindando consecuencias claras para quienen incumplen la ley</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Protección de la información y sistemas, generando confiabilidad en técnologias digitales. Fomentar la ciberseguridad. Proteger la autoria de los sistemas. Sanciones para delitos informáticos específicos, brindando consecuencias claras para quienen incumplen la ley</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="swiper-slide" data-slide-bg="images/slide-2-1920x720.jpg">
+          <div class="swiper-slide" data-slide-bg="../img/delitoSlider2.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary">Desventajas </span> de <br><span class="divider"></span>esta Ley
+                    <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary text-color-white">Desventajas </span> de <br><span class="divider"></span>esta Ley
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Complicaciones al determinar el autor original del delito.
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Complicaciones al determinar el autor original del delito.
                     Dificultad en su aplicación ante posibles nuevos delitos informáticos; ameritando actualizaciones. Dependencia de organismos especializados en el área, para cumplir de mejor manera dicha ley.</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="swiper-slide" data-slide-bg="images/slide-3-1920x720.jpg">
+          <div class="swiper-slide" data-slide-bg="../img/delitoSlider2.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                    <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Importancia <span class="text-primary">de</span> <br><span class="divider"></span>esta Ley
+                    <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Importancia <span class="text-primary text-color-white">de</span> <br><span class="divider"></span>esta Ley
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Es crucial para mantener la seguridad digital, protegiendo tanto a individuos como a instituciones contra las amenazas del ciberespacio y promoviendo un uso responsable de la tecnología. La ley asegura la protección de derechos fundamentales como la privacidad, la propiedad intelectual, y el acceso seguro a la información.</p> 
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Asimismo, prevenir y combatir delitos como el acceso indebido a sistemas, la manipulación de datos, el sabotaje informático, y la usurpación de identidad</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Es crucial para mantener la seguridad digital, protegiendo tanto a individuos como a instituciones contra las amenazas del ciberespacio y promoviendo un uso responsable de la tecnología. La ley asegura la protección de derechos fundamentales como la privacidad, la propiedad intelectual, y el acceso seguro a la información.</p> 
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Asimismo, prevenir y combatir delitos como el acceso indebido a sistemas, la manipulación de datos, el sabotaje informático, y la usurpación de identidad</p>
                   </div>
                 </div>
               </div>

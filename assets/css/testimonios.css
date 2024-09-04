@@ -36,7 +36,6 @@ a{
     flex-wrap: wrap;
     justify-content: space-between;
 }
-
 .testimonio-caja{
     flex: 1;
     margin: 15px;
@@ -101,11 +100,14 @@ a{
     transition: all ease 0.3s;
 }
 
+
 @media (max-width: 1020px){
     .testimonio-caja{
         width: 350px;
         padding: 10px;
     }
+
+  
 }
 
 @media (max-width: 768px){
