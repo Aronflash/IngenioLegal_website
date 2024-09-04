@@ -18,7 +18,7 @@
                 </div>
                 <div class="col-md-6 col-lg-12">
                   <div class="quote-with-image">
-                    <figure class="quote-img"><img src="images/home-1-7-534x406.jpg" alt="" width="534" height="406"/>
+                    <figure class="quote-img"><img src="../img/Creacion1.jpg" alt="" width="534" height="406"/>
                     </figure>
                     <div class="quote-caption">
                       <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="88.34px" height="65.34px" viewBox="0 0 88.34 65.34" enable-background="new 0 0 88.34 65.34" overflow="scroll" xml:space="preserve" preserveAspectRatio="none">
@@ -33,7 +33,7 @@
             <div class="col-lg-6">
               <div class="row row-50">
                 <div class="col-md-6 col-lg-12">
-                  <figure class="block-image"><img src="images/home-1-8-541x369.jpg" alt="" width="541" height="369"/>
+                  <figure class="block-image"><img src="../img/Creacion2.jpg" alt="" width="541" height="369"/>
                   </figure>
                   <p class="p big text-gray-800">Por otro lado, el procedimiento para constituir una compañía anónima (C.A.) inicia con la redacción del acta constitutiva, donde se especifica el capital inicial representado en acciones. Estas acciones se ofrecen primero a los socios en una asamblea y, si quedan acciones sin comprar, se pueden ofrecer al público en el mercado.</p>
                   <p class="p big text-gray-800">El acta también debe designar las autoridades, describir el funcionamiento administrativo de la empresa, y detallar su objeto. Una vez completado este proceso, se procede al registro de la compañía anónima en el registro mercantil competente.</p>

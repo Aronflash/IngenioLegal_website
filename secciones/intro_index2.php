@@ -19,13 +19,13 @@
       </div>
       <div class="col-lg-6">
         <div class="box-images">
-          <div class="box-images-item box-images-1" data-parallax-scroll="{&quot;y&quot;: 20, &quot;x&quot;: 30,  &quot;smoothness&quot;: 30 }"><img src="" alt="" width="282" height="282"/>
+          <div class="box-images-item box-images-1" data-parallax-scroll="{&quot;y&quot;: 20, &quot;x&quot;: 30,  &quot;smoothness&quot;: 30 }"><img src="pantallas/temario/img/SancionMulta.jpg" alt="" width="282" height="282"/>
           </div>
-          <div class="box-images-item box-images-2" data-parallax-scroll="{&quot;y&quot;: 20,  &quot;smoothness&quot;: 30 }"><img src="" alt="" width="240" height="369"/>            
+          <div class="box-images-item box-images-2" data-parallax-scroll="{&quot;y&quot;: 20,  &quot;smoothness&quot;: 30 }"><img src="pantallas/temario/img/LeyIngenieria1.jpg" alt="" width="240" height="369"/>            
         </div>
-          <div class="box-images-item box-images-3" data-parallax-scroll="{&quot;y&quot;: 20, &quot;x&quot;: -30, &quot;smoothness&quot;: 30 }"><img src="" alt="" width="299" height="369"/>
+          <div class="box-images-item box-images-3" data-parallax-scroll="{&quot;y&quot;: 20, &quot;x&quot;: -30, &quot;smoothness&quot;: 30 }"><img src="pantallas/temario/img/conceptoDerecho.jpg" alt="" width="299" height="369"/>
           </div>
-          <div class="box-images-item box-images-4" data-parallax-scroll="{&quot;y&quot;: -20,  &quot;smoothness&quot;: 30 }"><img src="" alt="" width="266" height="266"/>
+          <div class="box-images-item box-images-4" data-parallax-scroll="{&quot;y&quot;: -20,  &quot;smoothness&quot;: 30 }"><img src="images/CodigoComercioB.jpg" alt="" width="266" height="266"/>
           </div>
         </div>
       </div>

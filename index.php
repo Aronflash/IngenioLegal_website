@@ -1,3 +1,67 @@
+<!--CONEXION Y RECOLECCIÓN DE DATO VISITAS-->
+<?php
+// Conexión a la base de datos
+$servername = "localhost:3306"; // Cambiar según tu configuración
+$username = "root"; // Cambiar según tu configuración
+$password = ""; // Cambiar según tu configuración
+$dbname = "ingeniolbd"; // Cambiar según tu configuración
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+
+// Verificar la conexión
+if ($conn->connect_error) {
+    die("Conexión fallida: " . $conn->connect_error);
+}
+
+// Obtener el contador actual
+$sql = "SELECT contador FROM visitas WHERE id=1";
+$result = $conn->query($sql);
+
+if ($result->num_rows > 0) {
+    $row = $result->fetch_assoc();
+    $contador_actual = $row['contador'];
+
+    // Incrementar el contador
+    $nuevo_contador = $contador_actual + 1;
+    $sql = "UPDATE visitas SET contador=$nuevo_contador WHERE id=1";
+
+    if ($conn->query($sql) === TRUE) {
+        // Mostrar el contador en el cuadro flotante
+        $visitas = $nuevo_contador;
+    } else {
+        echo "Error al actualizar el contador: " . $conn->error;
+    }
+} else {
+    echo "Error al obtener el contador";
+}
+
+$conn->close();
+?>
+
+<!--Estilos del cuadro flotante contador de visitas-->
+<style>
+  /* Cuadro flotante */
+  #visitas-cuadro {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      background-color: rgba(0, 0, 0, 0.7);
+      color: white;
+      padding: 10px;
+      border-radius: 8px;
+      z-index: 1000;
+      cursor: move;
+      display: flex;
+      align-items: center;
+      font-family: 'Montserrat', sans-serif;
+  }
+
+  #visitas-cuadro img {
+      width: 20px;
+      margin-right: 8px;
+  }
+</style>
+
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
   <head>
@@ -21,6 +85,13 @@
         <?php 
           include ('partes_home/carga.php');
         ?>
+
+        <!--Impresión y diseño de vista de visitas-->
+        <div id="visitas-cuadro">
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/visible.png" alt="Ojo">
+          <span><?php echo $visitas; ?> visitas</span>
+        </div>
+
     <div class="page">
         <?php
           include ('partes_home/header.php');
@@ -39,6 +110,7 @@
     <!-- Javascript-->
     <script src="js/core.min.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/cuadroflotante.js"></script>
     <!-- coded by houdini-->
   </body>
 </html>

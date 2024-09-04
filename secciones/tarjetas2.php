@@ -95,6 +95,7 @@
                         <button type="button" class="abrir-pdf button button-default-outline" data-file="../documents/Firma Personal Viveres Ortiz.pdf">Abrir Documento</button>
                       
                     </article>
+                    <br><br><br>
                     <div class="col-md-4 col-lg-4">
                   <div class="box-video" data-lightgallery="group">
                   <iframe src="https://www.youtube.com/embed/mXcympf98hc?si=kCq6N0_L8zbSjEWC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -117,7 +118,7 @@
 
                
                     </article>
-                    
+                    <br><br><br>
                     <div class="col-md-4 col-lg-4">
                   <div class="box-video" data-lightgallery="group">
                   <iframe  src="https://www.youtube.com/embed/xLdNXry6IzQ?si=O_wzDAExcVMe1FnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -140,7 +141,7 @@
                         <button class="button button-default-outline" onclick="showDescription('<p>Esta Firma Personal se especializa en la compra, venta y distribución de hardware y accesorios informáticos, ofreciendo una amplia gama de productos tecnológicos de alta calidad. Desde la comercialización de computadoras hasta los componentes electrónicos más avanzados, nuestra misión es equipar a nuestros clientes con las mejores herramientas para el éxito.</p> <p>Nos dedicamos a proveer periféricos de última generación y ofrecemos servicios de reparación eficientes y confiables, asegurando que tus dispositivos funcionen al máximo de su capacidad. Además, brindamos asesoramiento personalizado en la compra de equipos, ayudándote a tomar decisiones informadas y adaptadas a tus necesidades específicas.</p> <p>Creado por:</p> <ul> <li>Yerson Camargo</li> <li>Aron Rojas</li> <li>David Guillén</li> <li>Yelimar Pérez</li> <li>Jesús Burgos</li> <li>Luis Zambrano</li> <li>Leonardo Carrero</li> <li>Ismael Sanchez</li></ul>')">Leer más</button>
                         <button type="button" class="abrir-pdf button button-default-outline" data-file="../documents/Firma Personal Vargas Tech.pdf">Ver Documento</button>
                     </article>
-                      
+                    <br><br><br>
                     <div class="col-md-4 col-lg-4">
                   <div class="box-video" data-lightgallery="group">
                   <iframe  src="https://www.youtube.com/embed/6JXiDHIdrDY?si=5vL-gAYAfd-wWHc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
-    <link rel="icon" href="assets/img/logo.png" type="image/x-icon">
+    <link rel="icon" href="../assets/img/logo.png" type="image/x-icon">
     
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:300i,400,400i,700%7CMontserrat:400,500,600,700%7CPlayfair+Display:400,700,700i%7COswald:400,700,700i">
     <link rel="stylesheet" href="../css/bootstrap.css">
@@ -17,42 +17,15 @@
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
     <script src="https://kit.fontawesome.com/c8e4d183c2.js" crossorigin="anonymous"></script>
 </head>
-        
+        <?php
+            include ('../partes_home/carga.php');
+        ?>
+       
     <div class="page">
-    <header class="section page-header">
-            <!-- RD Navbar-->
-            <div class="rd-navbar-wrap">
-              <nav class="rd-navbar rd-navbar-classic rd-navbar-classic-minimal"  data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
-                <div class="rd-navbar-main-outer">
-                  <div class="rd-navbar-main">
-                    <!-- RD Navbar Panel-->
-                    <div class="rd-navbar-panel">
-                      <!-- RD Navbar Toggle-->
-                      <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
-                      <!-- RD Navbar Brand-->
-                      <div class="rd-navbar-brand">
-                        <!--Brand--><a class="brand" href="../index.html"><img class="logo" src="../assets/img/logo.png" /></a>
-                      </div>
-                    </div>
-                    <div class="rd-navbar-main-element">
-                      <div class="rd-navbar-nav-wrap">
-                        <!-- RD Navbar Nav-->
-                        <ul class="rd-navbar-nav">
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="../index.php">Inicio</a>
-                          </li>
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="../about.php">About</a>
-                          </li>
-                          <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.php">Contacts</a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </nav>
-            </div>
-          </header>
-    
+    <?php 
+            include ('header_acta.php');
+        ?>
+
           <div class="testimonial-heading"><br>
                 <h2>Experiencias Personales</h2>
                 <h3>Del Alumnado de Marco Legal</h3>
