@@ -72,6 +72,25 @@
         </section>
 
         <section id="testimonials">
+        <div class="testimonio-caja-contenedor">
+                <div class="testimonio-caja">
+                    <div class="box-top">
+                        <div class="profile">
+                            <div class="profile-img">
+                                <img src="../assets/img/testimonios/urdanete.jpg" alt="foto">
+                            </div>
+                            <div class="name-user"> 
+                                <strong>Luis Urdaneta</strong>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="client-coment">
+                          <p class="p">Para mí, fue una experiencia totalmente diferente a lo que conlleva a las materias teóricas, saliendo de lo cotidiano y monótono de siempre, agrdezco mucho estás semanas de estudio ya que me motive a hacerlo por lo dinámico de las clases. <br><br>
+                             
+                          </p>
+                    </div>
+                </div>
+            </div>
             <div class="testimonio-caja-contenedor">
                 <div class="testimonio-caja">
                     <div class="box-top">
@@ -93,7 +112,11 @@ materia excelente y que aporta muchos conocimientos.</p>
                 </div>
             </div>
 
-            <div class="testimonio-caja-contenedor">
+        </section>
+
+        <section id="testimonials">
+            
+        <div class="testimonio-caja-contenedor">
                 <div class="testimonio-caja">
                     <div class="box-top">
                         <div class="profile">
@@ -113,9 +136,6 @@ y emocionado por estas nuevas alternativas dentro de la universidad, fomentando 
                     </div>
                 </div>
             </div>
-        </section>
-
-        <section id="testimonials">
             <div class="testimonio-caja-contenedor">
                 <div class="testimonio-caja">
                     <div class="box-top">
@@ -140,7 +160,14 @@ Sin embargo, sigue siendo una materia con mucha teoría y hay que tener buena ca
                 </div>
             </div>
 
-            <div class="testimonio-caja-contenedor">
+            
+        </section>
+
+        <section id="testimonials">
+            
+        <div class="testimonio-caja-contenedor">
+
+        <div class="testimonio-caja-contenedor">
                 <div class="testimonio-caja">
                     <div class="box-top">
                         <div class="profile">
@@ -163,11 +190,7 @@ durante el que se vio.</p>
                     </div>
                 </div>
             </div>
-        </section>
 
-        <section id="testimonials">
-            
-        <div class="testimonio-caja-contenedor">
                 <div class="testimonio-caja">
                     <div class="box-top">
                         <div class="profile">
@@ -192,35 +215,11 @@ durante el que se vio.</p>
                     </div>
                 </div>
             </div>
-            <div class="testimonio-caja-contenedor">
-                <div class="testimonio-caja">
-                    <div class="box-top">
-                        <div class="profile">
-                            <div class="profile-img">
-                                <img src="../assets/img/testimonios/karen.jpg" alt="foto">
-                            </div>
-                            <div class="name-user"> 
-                                <strong>Karen Rosales</strong>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="client-coment">
-                          <p class="p">Personalmente me siento satisfecha por la metodología que fue tomada por la docente para llevar a cabo el 
-                            desgloce de contenido programático de una forma mucho más dinámica y acorde a la carrera que estamos estudiando. 
-                            Como dijo Herbert Spencer "El gran objetivo de la educación no es el conocimiento, sino la acción". Pudimos absorber 
-                            aún mejor la información proporcionada al tener la libertad de crear proyectos que normamelmete nos toman 3 meses.
-                            Fué un verdadero reto lograr hacer el diseño de una página en una mañana, así como finiquitarla en una semana completamente
-                            funcional. <br><br>
-                            Así mismo, siento que esta materia dio paso a que hubiera una retroalimentación constante y que los integrantes del 4to y 
-                            6to semestre pudieran echar un vistazo al conocimiento que adquirirán en los próximos semestres a nivel de programación y diseño. 
-                          </p>
-                    </div>
-                </div>
-            </div>
+          
         </section>
 
         <section id="testimonials">
-             
+            
             <div class="testimonio-caja-contenedor">
                 <div class="testimonio-caja">
                     <div class="box-top">
@@ -257,6 +256,30 @@ durante el que se vio.</p>
                 </div>
             </div>
             <div class="testimonio-caja-contenedor">
+                <div class="testimonio-caja">
+                    <div class="box-top">
+                        <div class="profile">
+                            <div class="profile-img">
+                                <img src="../assets/img/testimonios/karen.jpg" alt="foto">
+                            </div>
+                            <div class="name-user"> 
+                                <strong>Karen Rosales</strong>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="client-coment">
+                          <p class="p">Personalmente me siento satisfecha por la metodología que fue tomada por la docente para llevar a cabo el 
+                            desgloce de contenido programático de una forma mucho más dinámica y acorde a la carrera que estamos estudiando. 
+                            Como dijo Herbert Spencer "El gran objetivo de la educación no es el conocimiento, sino la acción". Pudimos absorber 
+                            aún mejor la información proporcionada al tener la libertad de crear proyectos que normamelmete nos toman 3 meses.
+                            Fué un verdadero reto lograr hacer el diseño de una página en una mañana, así como finiquitarla en una semana completamente
+                            funcional. <br><br>
+                            Así mismo, siento que esta materia dio paso a que hubiera una retroalimentación constante y que los integrantes del 4to y 
+                            6to semestre pudieran echar un vistazo al conocimiento que adquirirán en los próximos semestres a nivel de programación y diseño. 
+                          </p>
+                    </div>
+                </div>
+            </div>
             
         </section>
 

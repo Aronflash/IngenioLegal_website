@@ -18,7 +18,7 @@
                 </div>
                 <div class="col-md-6 col-lg-12">
                   <div class="quote-with-image">
-                    <figure class="quote-img"><img src="images/home-1-7-534x406.jpg" alt="" width="534" height="406"/>
+                    <figure class="quote-img"><img src="../img/SancionMulta2.jp g" alt="" width="534" height="406"/>
                     </figure>
                     <div class="quote-caption">
                      <p class="p big text-gray-800">Finalmente, el artículo 122 incrementa las penas en un 50% cuando las infracciones afectan obras no destinadas a la divulgación, o cuando se cometen con usurpación de paternidad o modificaciones que dañen el decoro o la reputación del autor o intérprete. Para que las acciones legales procedan, la parte interesada debe presentar una denuncia, y según el artículo 123, también puede solicitar al juez la publicación de la sentencia en medios de comunicación de circulación nacional.</p> 
@@ -30,7 +30,7 @@
             <div class="col-lg-6">
               <div class="row row-50">
                 <div class="col-md-6 col-lg-12">
-                  <figure class="block-image"><img src="images/home-1-8-541x369.jpg" alt="" width="541" height="369"/>
+                  <figure class="block-image"><img src="../img/SancionMulta.jpg" alt="" width="541" height="369"/>
                   </figure>
                   <p class="p big text-gray-800">La ley establece penas de prisión en diversos casos. Por ejemplo, el artículo 119 dispone penas de seis a dieciocho meses para quienes utilicen títulos de obras protegidas, comuniquen o distribuyan obras sin autorización, o retransmitan emisiones de radiodifusión sin el consentimiento del titular.</p>
                   <p class="p big text-gray-800">El artículo 120 agrava estas sanciones para la reproducción ilícita de obras, imponiendo penas de prisión de uno a cuatro años para quienes introduzcan, almacenen, distribuyan o vendan copias no autorizadas. Estas penas también se aplican a la reproducción y distribución no autorizada de actuaciones de intérpretes, fonogramas o emisiones de radiodifusión, según el artículo 121.</p>

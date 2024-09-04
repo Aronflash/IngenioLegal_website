@@ -19,7 +19,7 @@
   <body>
         <?php 
           include ('../../../partes_home/carga.php'); 
-       ?>
+       ?> 
         <div class="page">
          
         <?php 
@@ -28,6 +28,7 @@
           include ('./slider.php');
           include ('./present.php');
           include ('./seccion3.php');
+          include('./tutorial.php');
           include ('../../../partes_home/footer.php');
         ?>
     <!-- Global Mailform Output-->

@@ -15,8 +15,8 @@
                   <div class="col-sm-10 col-lg-8 col-xl-7">
                     <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary text-color-white">Ventajas</span> de una <br><span class="divider"></span>Firma Personal
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Crear una Firma Personal en Venezuela es un proceso generalmente más sencillo y rápido que constituir una sociedad mercantil, lo que se traduce en menos trámites y costos iniciales reducidos. El propietario tiene una gran autonomía para tomar decisiones y gestionar su negocio sin necesidad de consultar a socios ni juntas directivas, lo que facilita la adaptación a los cambios del mercado.</p>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Además, las ganancias se declaran como ingresos personales, simplificando la gestión fiscal y convirtiéndose en una opción accesible para emprendedores con pocos recursos que desean iniciar un negocio por cuenta propia.</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Crear una Firma Personal en Venezuela es un proceso generalmente más sencillo y rápido que constituir una sociedad mercantil, lo que se traduce en menos trámites y costos iniciales reducidos. El propietario tiene una gran autonomía para tomar decisiones y gestionar su negocio sin necesidad de consultar a socios ni juntas directivas, lo que facilita la adaptación a los cambios del mercado.</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Además, las ganancias se declaran como ingresos personales, simplificando la gestión fiscal y convirtiéndose en una opción accesible para emprendedores con pocos recursos que desean iniciar un negocio por cuenta propia.</p>
                   </div>
                 </div>
               </div>
@@ -29,8 +29,8 @@
                   <div class="col-sm-10 col-lg-8 col-xl-7">
                     <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary text-color-white">Desventajas</span> de una <br><span class="divider"></span>Firma Personal
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Todos los bienes personales del propietario están expuestos a las deudas del negocio, lo que puede dificultar la obtención de financiamiento externo debido al mayor riesgo percibido por los prestamistas. El crecimiento de la firma puede estar limitado por la capacidad financiera del propietario, y en caso de fallecimiento del mismo, la firma se disuelve automáticamente, generando incertidumbre sobre el futuro del negocio</p>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Además, aunque la gestión puede ser más sencilla que la de una sociedad, aún se requiere llevar contabilidad y cumplir con obligaciones fiscales, y la transferencia de la propiedad puede ser más compleja que la de acciones en una sociedad.</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Todos los bienes personales del propietario están expuestos a las deudas del negocio, lo que puede dificultar la obtención de financiamiento externo debido al mayor riesgo percibido por los prestamistas. El crecimiento de la firma puede estar limitado por la capacidad financiera del propietario, y en caso de fallecimiento del mismo, la firma se disuelve automáticamente, generando incertidumbre sobre el futuro del negocio</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Además, aunque la gestión puede ser más sencilla que la de una sociedad, aún se requiere llevar contabilidad y cumplir con obligaciones fiscales, y la transferencia de la propiedad puede ser más compleja que la de acciones en una sociedad.</p>
                   </div>
                 </div>
               </div>
@@ -43,8 +43,8 @@
                   <div class="col-sm-10 col-lg-8 col-xl-7">
                     <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary text-color-white">Ventajas</span> de una <br><span class="divider"></span>Compañía Anónima
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250"> Los socios están motivados a dedicar su mejor esfuerzo, ya que participan directamente en los beneficios de la empresa. Además, la compañía se mantiene operativa incluso después de la muerte de alguno de sus socios, garantizando su continuidad. Las acciones de la empresa pueden ser compradas o heredadas, lo que facilita la transferencia de la propiedad.</p>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Una de las mayores ventajas es que la responsabilidad de los socios está limitada a sus aportaciones, lo que separa el patrimonio personal del patrimonio de la empresa, protegiendo los bienes personales de los socios ante posibles deudas o problemas financieros de la compañía.</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250"> Los socios están motivados a dedicar su mejor esfuerzo, ya que participan directamente en los beneficios de la empresa. Además, la compañía se mantiene operativa incluso después de la muerte de alguno de sus socios, garantizando su continuidad. Las acciones de la empresa pueden ser compradas o heredadas, lo que facilita la transferencia de la propiedad.</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Una de las mayores ventajas es que la responsabilidad de los socios está limitada a sus aportaciones, lo que separa el patrimonio personal del patrimonio de la empresa, protegiendo los bienes personales de los socios ante posibles deudas o problemas financieros de la compañía.</p>
                   </div>
                 </div>
               </div>
@@ -58,8 +58,8 @@
                   <div class="col-md-10 col-lg-8 col-xl-7">
                     <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100"><span class="text-primary text-color-white">Desventajas</span> de una<br><span class="divider"></span>Compañía Anónima
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Requiere una organización más compleja, incluyendo la obligación de realizar al menos una Junta de Accionistas al año. </p>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Los costos iniciales de constitución son más altos en comparación con otras formas de sociedad, y se necesitan realizar una mayor cantidad de trámites, procedimientos y cumplir con requisitos específicos para su establecimiento y funcionamiento, lo que puede ser un proceso más burocrático y demandante para los emprendedores.</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Requiere una organización más compleja, incluyendo la obligación de realizar al menos una Junta de Accionistas al año. </p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Los costos iniciales de constitución son más altos en comparación con otras formas de sociedad, y se necesitan realizar una mayor cantidad de trámites, procedimientos y cumplir con requisitos específicos para su establecimiento y funcionamiento, lo que puede ser un proceso más burocrático y demandante para los emprendedores.</p>
                   </div>
                 </div>
               </div>
@@ -72,8 +72,8 @@
                   <div class="col-md-10 col-lg-8 col-xl-7">
                     <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Comparación <span class="text-primary text-color-white">entre</span> <br><span class="divider"></span>Ambas
                     </h1>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">Rrepresentan dos estructuras empresariales con características y ventajas distintas. La firma personal es una opción sencilla y rápida de constituir, con menores costos iniciales y gran autonomía para el propietario, pero implica responsabilidad ilimitada, lo que significa que los bienes personales del propietario están en riesgo ante las deudas del negocio.</p>
-                    <p class="p lead" data-caption-animate="fadeInUp" data-caption-delay="250">En contraste, la compañía anónima ofrece una estructura más compleja que protege el patrimonio personal de los socios, limitando su responsabilidad a sus aportaciones, y permite la continuidad de la empresa tras la muerte de los socios. Sin embargo, su constitución es más costosa y requiere cumplir con más trámites y regulaciones, incluyendo la realización de Juntas de Accionistas anuales.</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">Rrepresentan dos estructuras empresariales con características y ventajas distintas. La firma personal es una opción sencilla y rápida de constituir, con menores costos iniciales y gran autonomía para el propietario, pero implica responsabilidad ilimitada, lo que significa que los bienes personales del propietario están en riesgo ante las deudas del negocio.</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250">En contraste, la compañía anónima ofrece una estructura más compleja que protege el patrimonio personal de los socios, limitando su responsabilidad a sus aportaciones, y permite la continuidad de la empresa tras la muerte de los socios. Sin embargo, su constitución es más costosa y requiere cumplir con más trámites y regulaciones, incluyendo la realización de Juntas de Accionistas anuales.</p>
                   </div>
                 </div>
               </div>
