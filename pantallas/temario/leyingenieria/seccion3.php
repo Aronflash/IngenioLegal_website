@@ -27,8 +27,7 @@
                 </div>
                 <div class="col-md-6 col-lg-12">
                   <div class="quote-with-image">
-                    <figure class="quote-img"><img src="../img/EjercicioIngenieria.jpg" alt="" width="534" height="406"/>
-                    </figure>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/pgf96zmarG4?si=zEmX89jaNFqvXZ6L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                   </div>
                 </div>
               </div>
