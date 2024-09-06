@@ -26,10 +26,9 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-10 col-lg-8 col-xl-7">
-                  <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">El CVI<span class="text-primary"></span>  </span>
+                  <h1 class="b heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">El CIV<span class="text-primary"></span>  </span>
                     </h1>
-                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250"> Organiza centros de ingenieros en las entidades federales y establece su propia normativa interna.
-</p>
+                    <p class="b lead" data-caption-animate="fadeInUp" data-caption-delay="250"> Organiza centros de ingenieros en las entidades federales y establece su propia normativa interna.</p>
                   </div>
                 </div>
               </div>

@@ -121,8 +121,7 @@
                     <br><br><br>
                     <div class="col-md-4 col-lg-4">
                   <div class="box-video" data-lightgallery="group">
-                  <iframe  src="https://www.youtube.com/embed/xLdNXry6IzQ?si=O_wzDAExcVMe1FnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                  </a>
+                  <iframe src="https://www.youtube.com/embed/yvUvozQlgeQ?si=snPOQOQmKYaG83r1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                   </div>
                 </div>
                    

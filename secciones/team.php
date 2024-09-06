@@ -164,7 +164,7 @@
 
               </div>
             </div>
-            <div class="col-12"><a class="button button-default-outline" href="#">View all team</a></div>
+         
           </div>
         </div>
       </section>

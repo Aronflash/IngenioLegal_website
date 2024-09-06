@@ -100,6 +100,7 @@ $conn->close();
           include ('secciones/intro_index.php');
           include ('secciones/seccion3_index.php');
           include ('secciones/intro_index2.php');
+          include ('secciones/team.php');
           include ('secciones/testimonios.php');
           include ('secciones/seccion5.php');
           include ('partes_home/footer.php');

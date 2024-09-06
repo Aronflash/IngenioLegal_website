@@ -85,8 +85,7 @@
                         </div>
                     </div>
                     <div class="client-coment">
-                          <p class="p">Para mí, fue una experiencia totalmente diferente a lo que conlleva a las materias teóricas, saliendo de lo cotidiano y monótono de siempre, agrdezco mucho estás semanas de estudio ya que me motive a hacerlo por lo dinámico de las clases. <br><br>
-                             
+                          <p class="p">Para mí, fue una experiencia totalmente diferente, a lo que conlleva a las materias teóricas, saliendo de lo cotidiano y monótono de siempre, agradezco mucho estás semanas de estudio ya que me motive a hacerlo por lo dinámico de las clases. <br><br>
                           </p>
                     </div>
                 </div>
@@ -251,7 +250,7 @@ durante el que se vio.</p>
                             vez más cómo la educación se aleja de los métodos convencionales y abraza la innovación,
                             usando la tecnología como una gran aliada. El futuro de la educación debe centrarse en formar
                             personas con un amplio conocimiento y habilidades para utilizar herramientas que les
-                            permitan resolver los desafíos del mundo rea.</p>
+                            permitan resolver los desafíos del mundo real.</p>
                     </div>
                 </div>
             </div>
@@ -269,7 +268,7 @@ durante el que se vio.</p>
                     </div>
                     <div class="client-coment">
                           <p class="p">Personalmente me siento satisfecha por la metodología que fue tomada por la docente para llevar a cabo el 
-                            desgloce de contenido programático de una forma mucho más dinámica y acorde a la carrera que estamos estudiando. 
+                            desglose del contenido programático de una forma mucho más dinámica y acorde a la carrera que estamos estudiando. 
                             Como dijo Herbert Spencer "El gran objetivo de la educación no es el conocimiento, sino la acción". Pudimos absorber 
                             aún mejor la información proporcionada al tener la libertad de crear proyectos que normamelmete nos toman 3 meses.
                             Fué un verdadero reto lograr hacer el diseño de una página en una mañana, así como finiquitarla en una semana completamente
