@@ -13,7 +13,7 @@
         <h2 class="heading-decorate">¿Qué es un Contrato?<br><span class="divider"></span>Según la Ley
         </h2>
         <p class="p big text-gray-800">Es el documento donde serán establecidas las condiciones de la relación laboral entre el patrono y su trabajador, fijando su prestación de servicio así como también la remuneración a recibir por sus servicios, así mismo estableciendo el tiempo de trabajo, el tipo de servicio que prestará, y demás condiciones que sean requeridas</p>
-        <p class="p text-spacing-60">Tomando en consideración el Art.133 del Código Civil y la Ley Orgánica del Trabajador</p>
+        <p class="p text-spacing-60">Tomando en consideración el Art.133 del Código Civil (Gaceta Nº 2.990 Extraordinaria del 26 de Julio de 1982 ) y la Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras (Gaceta Oficial N° 6.076 Extraordinario del 7 de mayo de 2012).</p>
       </div>  
       <div class="col-lg-6">
         <div class="box-images">

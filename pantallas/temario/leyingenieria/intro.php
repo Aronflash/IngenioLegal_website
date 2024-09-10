@@ -25,8 +25,9 @@
             <div class="col-lg-6 col-xl-5">
               <h2 class="heading-decorate">Ley del Ejercicio de la Ingeniería, Arquitectura y <br>Profesiones Afines
               </h2>
-              <p class="p big text-gray-800">Tiene como propósito regular el ejercicio de la ingeniería, arquitectura y profesiones afines en Venezuela. Esto incluye la definición de 
-                quiénes pueden ejercer estas profesiones, las condiciones para hacerlo, y el establecimiento de un marco ético y profesional para los practicantes. También busca asegurar que las obras y actividades realizadas en estas disciplinas cumplan con los estándares de seguridad y eficacia.</p>
+              <p class="p big text-gray-800">DECRETO NÚMERO 444, publicado el 24 de noviembre de 1958. Tiene como propósito regular el ejercicio de la ingeniería, arquitectura y profesiones afines en Venezuela. Esto incluye la definición de 
+                quiénes pueden ejercer estas profesiones, las condiciones para hacerlo, y el establecimiento de un marco ético y profesional para los practicantes. También busca asegurar que las obras y actividades realizadas en estas disciplinas cumplan con los estándares de seguridad y eficacia. <br>
+              </p>
              
             </div>
           </div>

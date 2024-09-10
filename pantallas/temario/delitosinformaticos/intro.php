@@ -25,7 +25,7 @@
             <div class="col-lg-6 col-xl-5">
               <h2 class="heading-decorate">Ley Especial Contra<br><span class="divider"></span>Delitos Informáticos
               </h2>
-              <p class="p big text-gray-800">Su finalidad es proteger la integridad, confidencialidad y disponibilidad de los sistemas de información, regulando el acceso y uso de la tecnología, y estableciendo sanciones para prevenir y penalizar conductas ilícitas que atenten contra la seguridad informática.</p>
+              <p class="p big text-gray-800">GACETA OFICIAL DE LA REPÚBLICA, NÚMERO 37.313 publicada el 30 de octubre de 2001. Tiene por finalidad es proteger la integridad, confidencialidad y disponibilidad de los sistemas de información, regulando el acceso y uso de la tecnología, y estableciendo sanciones para prevenir y penalizar conductas ilícitas que atenten contra la seguridad informática.</p>
               <p class="p text-spacing-60">La ley abarca tanto a individuos como a personas jurídicas que, de manera indebida, obtengan, revelen o difundan información contenida en sistemas</p>
             </div>
           </div>
